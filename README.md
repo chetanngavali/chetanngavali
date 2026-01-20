@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Chetan Gavali</h1>
 <h3 align="center">
-Cybersecurity student and developer exploring secure systems, IoT, and modern web technologies.
+Cybersecurity enthusiast and developer exploring secure systems, IoT, and modern web technologies.
 </h3>
 <h4 align="center">
 I enjoy building things, breaking them ethically, and turning complex concepts into practical learning projects.
