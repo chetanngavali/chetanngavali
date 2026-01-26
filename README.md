@@ -13,7 +13,8 @@
 
 ### 🔍 **EXECUTIVE SUMMARY**
 
-I architect resilient digital ecosystems by bridging the gap between **offensive security protocols** and **high-performance engineering**. My focus is on developing natively secure systems that are robust, scalable, and prepared for the evolving threat landscape.
+> **"Security is not an afterthought; it is the architect's foundation."**
+> I specialize in the intersection of **Offensive Security Architecture** and **Modern Digital Systems**. By bridging the gap between proactive defense and high-performance engineering, I build systems that are natively resilient, horizontally scalable, and prepared for high-stake threat landscapes.
 
 </div>
 
@@ -23,13 +24,14 @@ I architect resilient digital ecosystems by bridging the gap between **offensive
 
 ### 🛡️ **CORE SPECIALIZATIONS**
 
-| ⚔️ OFFENSIVE SECURITY | 🏗️ SYSTEM ARCHITECTURE | 📡 IOT & EMBEDDED |
+| <img src="https://img.shields.io/badge/OFFENSIVE-SECURITY-7aa2f7?style=for-the-badge&logoColor=white" /> | <img src="https://img.shields.io/badge/SYSTEM-ARCHITECTURE-9ece6a?style=for-the-badge&logoColor=white" /> | <img src="https://img.shields.io/badge/IOT-EMBEDDED-bb9af7?style=for-the-badge&logoColor=white" /> |
 | :--- | :--- | :--- |
-| **Penetration Testing** | **Scalable Microservices** | **Secure Firmware Dev** |
-| **VAPT Operations** | **Cloud-Native Solutions** | **Edge Intelligence** |
-| **OWASP Compliance** | **Full-Stack Orchestration** | **ESP32/IoT Ecosystem** |
+| **⚡ Penetration Testing** | **⚡ Scalable Microservices** | **⚡ Secure Firmware Dev** |
+| **⚡ VAPT Operations** | **⚡ Cloud-Native Solutions** | **⚡ Edge Intelligence** |
+| **⚡ OWASP Compliance** | **⚡ Full-Stack Orchestration** | **⚡ ESP32 Ecosystem** |
 
 </div>
+
 
 
 ---
