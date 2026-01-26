@@ -1,114 +1,84 @@
-<h1 align="center">Hi 👋, I'm Chetan Gavali</h1>
-<h3 align="center">
-Cybersecurity enthusiast and developer exploring secure systems, IoT, and modern web technologies.
-</h3>
-<h4 align="center">
-I enjoy building things, breaking them ethically, and turning complex concepts into practical learning projects.
-</h4>
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=chetanngavali&label=Profile%20views&color=0e75b6&style=flat" alt="chetanngavali" />
-</p>
+# 🦾 Chetan Gavali
+### Cybersecurity Enthusiast | Full Stack Developer | IoT Innovator
 
----
+<img src="https://raw.githubusercontent.com/chetanngavali/chetanngavali/main/cybersecurity_developer_banner.png" alt="Chetan Gavali Banner" width="100%" />
 
-### 👨‍💻 About Me
+*(Note: Please upload the generated banner image to your repository and update the path above)*
 
-- 🎓 Second-year engineering student with a strong interest in cybersecurity, IoT, and web development  
-- 🛡️ Learning ethical hacking, network security, and secure application development  
-- 🧪 Enjoy experimenting with ESP32/ESP8266, automation, and security-focused projects  
-- 📚 Continuously improving through hands-on projects, CTF-style challenges, and certifications  
-- 📫 Reach me at **chetanngavali@gmail.com**
+[![Profile Views](https://komarev.com/ghpvc/?username=chetanngavali&label=Profile%20views&color=0e75b6&style=flat-square)](https://github.com/chetanngavali)
+[![Twitter Follow](https://img.shields.io/twitter/follow/chetanngavali?style=social)](https://twitter.com/chetanngavali)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Chetan%20Gavali-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/chetanngavali)
 
 ---
 
-### 🌐 Connect With Me
+### 🚀 About Me
 
-<p align="left">
-  <a href="https://codepen.io/chetanngavali" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="CodePen" height="30" width="40" />
-  </a>
-  <a href="https://dev.to/chetanngavali" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="Dev.to" height="30" width="40" />
-  </a>
-  <a href="https://twitter.com/chetanngavali" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
-  </a>
-  <a href="https://linkedin.com/in/chetanngavali" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://fb.com/chetanngavali" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/chetanngavali" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
-  </a>
-</p>
+I am a **Second-Year Engineering Student** with a passion for building secure, scalable, and intelligent systems. My journey spans from crafting elegant web interfaces to securing IoT devices and exploring the depths of ethical hacking.
+
+- 🛡️ **Cybersecurity:** Focused on Ethical Hacking, Network Security, and OWASP standards.
+- ⚡ **IoT & Embedded:** Experimenting with ESP32/ESP8266 and automation systems.
+- 🌐 **Web Dev:** Building full-stack applications with React, Node.js, and modern CSS.
+- 🎓 **Learning:** Currently diving into cloud security and advanced penetration testing.
+- 📫 **Reach Me:** [chetanngavali@gmail.com](mailto:chetanngavali@gmail.com)
+
+</div>
 
 ---
 
-### 🛠️ Languages & Tools
+### 🛠️ Tech Stack & Arsenal
 
-<p align="left">
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40" />
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" />
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40" />
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40" />
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40" />
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" />
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40" />
-  </a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" width="40" height="40" />
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40" />
-  </a>
-  <a href="https://cloud.google.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" width="40" height="40" />
-  </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40" />
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" />
-  </a>
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="40" height="40" />
-  </a>
-</p>
+<div align="center">
+
+| Category | Tools & Languages |
+| :--- | :--- |
+| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white) |
+| **Frontend** | ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) |
+| **Backend & DB** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) |
+| **IoT & Hardware** | ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![ESP32](https://img.shields.io/badge/Hardware-ESP32%20%2F%20ESP8266-E7352C?style=flat-square) |
+| **DevOps & Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white) ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white) |
+
+</div>
 
 ---
 
 ### 📊 GitHub Analytics
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chetanngavali&show_icons=true&locale=en&layout=compact" alt="chetanngavali" />
-</p>
+<div align="center">
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=chetanngavali&show_icons=true&locale=en" alt="chetanngavali" />
-</p>
+| Top Languages | GitHub Stats & Contributions |
+| :---: | :---: |
+| <img src="https://github-readme-stats.vercel.app/api/top-langs?username=chetanngavali&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" height="165px" /> | <img src="https://github-readme-stats.vercel.app/api?username=chetanngavali&show_icons=true&locale=en&theme=vision-friendly-dark" height="165px" /> |
 
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chetanngavali" alt="chetanngavali" />
-</p>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=chetanngavali&theme=vision-friendly-dark" width="100%" />
+
+</div>
+
+---
+
+### 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://linkedin.com/in/chetanngavali" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://twitter.com/chetanngavali" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+<a href="https://instagram.com/chetanngavali" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<a href="https://dev.to/chetanngavali" target="_blank"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" /></a>
+<a href="https://codepen.io/chetanngavali" target="_blank"><img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white" /></a>
+
+</div>
+
+---
+
+### 💖 Support My Work
+
+<div align="center">
+
+<iframe src="https://github.com/sponsors/chetanngavali/card" title="Sponsor chetanngavali" height="225" width="600" style="border: 0;"></iframe>
+
+</div>
+
+<div align="center">
+  <sub>Built with ❤️ by Chetan Gavali using Antigravity AI</sub>
+</div>
