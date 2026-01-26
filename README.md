@@ -43,15 +43,16 @@ I transform complex security puzzles into resilient digital fortresses. My work 
 
 ---
 
-### � **ANALYTICS & PERFORMANCE**
+### 📉 **ANALYTICS & PERFORMANCE**
 
 <div align="center">
 
-| | |
-| :---: | :---: |
-| <img src="https://github-readme-stats.vercel.app/api?username=chetanngavali&show_icons=true&theme=vision-friendly-dark&hide_border=true&title_color=0078d7&icon_color=0078d7&text_color=c9d1d9&bg_color=0D1117" height="150px" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chetanngavali&layout=compact&theme=vision-friendly-dark&hide_border=true&title_color=0078d7&text_color=c9d1d9&bg_color=0D1117" height="150px" /> |
+<img src="https://github-readme-stats.vercel.app/api?username=chetanngavali&show_icons=true&theme=vision-friendly-dark&hide_border=true&title_color=0078d7&icon_color=0078d7&text_color=c9d1d9&bg_color=0D1117" height="185px" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chetanngavali&layout=compact&theme=vision-friendly-dark&hide_border=true&title_color=0078d7&text_color=c9d1d9&bg_color=0D1117" height="185px" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=chetanngavali&theme=vision-friendly-dark&hide_border=true&stroke=0078d7&ring=0078d7&fire=0078d7&currStreakNum=0078d7" width="100%" />
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=chetanngavali&theme=vision-friendly-dark&hide_border=true" width="100%" />
 
 </div>
 
