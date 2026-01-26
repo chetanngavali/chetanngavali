@@ -1,6 +1,6 @@
 <div align="center">
 
-# <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=38&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=CHETAN+GAVALI;SECURITY+ARCHITECT;FULL+STACK+ENGINEER;IOT+INNOVATOR" alt="Typing SVG" />
+# <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=35&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=CHETAN+GAVALI;CYBER+SECURITY+ARCHITECT;FULL+STACK+ENGINEER;IOT+INNOVATOR" alt="Typing SVG" />
 
 <p align="center">
   <img src="https://img.shields.io/badge/VERSION-4.2.0-7aa2f7?style=for-the-badge&logo=git&logoColor=white" />
@@ -14,61 +14,45 @@
 
 I engineer at the intersection of **Offensive Security** and **High-Performance Architecture**. My mission is to deconstruct complex threat vectors and architect digital fortresses that are secure by design, horizontally scalable, and natively defended.
 
-**`LOCATION:`** India | **`FOCUS:`** Web Security / IoT / Zero-Trust | **`STATUS:`** Seeking Internships
+**`LOCATION:`** India | **`FOCUS:`** Web Security // IoT // Zero-Trust | **`STATUS:`** Seeking Internships
 
 ---
 
 ### ⚡ **CORE SPECIALIZATIONS**
 
-<table align="center">
-  <tr>
-    <td align="center" width="33%">
-      <img src="https://img.shields.io/badge/OFFENSIVE_OPS-7aa2f7?style=for-the-badge&logo=kali-linux&logoColor=white" /><br/>
-      <b>Advanced Pentesting</b><br/>VAPT / Threat Modeling<br/>OWASP Security Audit
-    </td>
-    <td align="center" width="33%">
-      <img src="https://img.shields.io/badge/CORE_SYSTEMS-9ece6a?style=for-the-badge&logo=nextdotjs&logoColor=white" /><br/>
-      <b>Scalable Architecture</b><br/>Cloud-Native Apps<br/>Secure Microservices
-    </td>
-    <td align="center" width="33%">
-      <img src="https://img.shields.io/badge/EDGE_COMPUTING-bb9af7?style=for-the-badge&logo=arduino&logoColor=white" /><br/>
-      <b>IoT Security</b><br/>Secure Firmware Dev<br/>Protocol Engineering
-    </td>
-  </tr>
-</table>
+<div align="center">
+
+| <img src="https://img.shields.io/badge/OFFENSIVE_OPS-7aa2f7?style=for-the-badge&logo=kali-linux&logoColor=white" /> | <img src="https://img.shields.io/badge/CORE_SYSTEMS-9ece6a?style=for-the-badge&logo=nextdotjs&logoColor=white" /> | <img src="https://img.shields.io/badge/IOT_SECURITY-bb9af7?style=for-the-badge&logo=arduino&logoColor=white" /> |
+| :---: | :---: | :---: |
+| **Advanced Pentesting** | **Scalable Systems** | **Secure Firmware Dev** |
+| **VAPT / Threat Modeling** | **Cloud-Native Solutions** | **Edge Intelligence** |
+| **OWASP Security Audit** | **Secure Microservices** | **Protocol Engineering** |
 
 </div>
 
-<br />
+---
 
-### 🚀 **FEATURED DEPLOYMENTS**
+### 🛡️ **OPERATIONAL INTELLIGENCE (LABS)**
 
 <table align="center">
   <tr>
-    <td width="50%">
-      <h4>⚡ StayBuddy</h4>
-      <p>Premium hostel discovery platform. Implemented military-grade secure auth, rate-limiting, and input validation.</p>
-      <code>React</code> <code>Node.js</code> <code>MongoDB</code> <code>JWT</code>
+    <td width="50%" valign="top">
+      <h4>🏠 Home Lab V2.0</h4>
+      <p>Dedicated AD environment with Windows Server 2022. Practicing lateral movement, privilege escalation, and SIEM monitoring.</p>
     </td>
-    <td width="50%">
-      <h4>�️ VulnScanner-Py</h4>
-      <p>Python-based automated vulnerability discovery tool for common OWASP Top 10 vulnerabilities.</p>
-      <code>Python</code> <code>BeautifulSoup</code> <code>Requests</code>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h4>🛰️ Secure IoT Gateway</h4>
-      <p>Prototype for end-to-end encryption of sensor data from edge devices to cloud infrastructure.</p>
-      <code>ESP32</code> <code>C++</code> <code>MQTT over TLS</code>
-    </td>
-    <td width="50%">
-      <h4>📚 Field Reports</h4>
-      <p>Researching Linux privilege escalation and IoT security frameworks for modern architectures.</p>
-      <code>Security Research</code> <code>Writeups</code>
+    <td width="50%" valign="top">
+      <h4>🌐 IoT Sandbox</h4>
+      <p>Secure mesh network of ESP32 nodes. Testing MITM resilience and encrypted protocol stability across edge devices.</p>
     </td>
   </tr>
 </table>
+
+---
+
+### 🎓 **PROFESSIONAL DEVELOPMENT**
+
+- **🎯 Target Path**: Actively preparing for **eJPT (Junior Penetration Tester)** and **OSCP** certifications.
+- **🏆 Current Learning**: Advanced Web Hacking, Network Pivoting, and Malware Analysis.
 
 ---
 
@@ -87,7 +71,7 @@ I engineer at the intersection of **Offensive Security** and **High-Performance 
 
 ---
 
-### � **REAL-TIME TELEMETRY**
+### 💹 **REAL-TIME TELEMETRY**
 
 <div align="center">
 
@@ -101,7 +85,7 @@ I engineer at the intersection of **Offensive Security** and **High-Performance 
 
 ---
 
-### 🌐 **NETWORK NODE**
+### 📡 **NETWORK NODE**
 
 <div align="center">
 
@@ -115,5 +99,9 @@ I engineer at the intersection of **Offensive Security** and **High-Performance 
 
 <br />
 
-Built with ⚡ by **Chetan Gavali**
+**Open to security internships, collaborations on offensive tooling, and CTF teams – reach out via LinkedIn or Email.**
+
+<br />
+
+Built with 🤍 by **Chetan Gavali**
 </div>
