@@ -11,10 +11,12 @@
 
 ---
 
-### 🔍 **EXECUTIVE SUMMARY**
+### ⚡ **VANGUARD MISSION PROFILE**
 
-> **"Security is not an afterthought; it is the architect's foundation."**
-> I specialize in the intersection of **Offensive Security Architecture** and **Modern Digital Systems**. By bridging the gap between proactive defense and high-performance engineering, I build systems that are natively resilient, horizontally scalable, and prepared for high-stake threat landscapes.
+> `STATUS: ACTIVE` | `SECURITY_CLEARANCE: LEVEL_4` | `INITIATIVE: CORE_ARCH`
+> "Architecting the invisible fortresses of the digital age."
+>
+> I operate at the critical intersection of **Offensive Security** and **High-Tier Full-Stack Engineering**. My mission is to engineer systems where security is not a feature, but the foundational DNA.
 
 </div>
 
@@ -22,15 +24,17 @@
 
 <div align="center">
 
-### 🛡️ **CORE SPECIALIZATIONS**
+### 🛡️ **DYNAMIC CAPABILITY MATRIX**
 
-| <img src="https://img.shields.io/badge/OFFENSIVE-SECURITY-7aa2f7?style=for-the-badge&logoColor=white" /> | <img src="https://img.shields.io/badge/SYSTEM-ARCHITECTURE-9ece6a?style=for-the-badge&logoColor=white" /> | <img src="https://img.shields.io/badge/IOT-EMBEDDED-bb9af7?style=for-the-badge&logoColor=white" /> |
+| <img src="https://img.shields.io/badge/OFFENSIVE_OPS-7aa2f7?style=for-the-badge&logo=kali-linux&logoColor=white" /> | <img src="https://img.shields.io/badge/CORE_ARCHITECTURE-9ece6a?style=for-the-badge&logo=nextdotjs&logoColor=white" /> | <img src="https://img.shields.io/badge/IOT_EMBEDDED-bb9af7?style=for-the-badge&logo=arduino&logoColor=white" /> |
 | :--- | :--- | :--- |
-| **⚡ Penetration Testing** | **⚡ Scalable Microservices** | **⚡ Secure Firmware Dev** |
-| **⚡ VAPT Operations** | **⚡ Cloud-Native Solutions** | **⚡ Edge Intelligence** |
-| **⚡ OWASP Compliance** | **⚡ Full-Stack Orchestration** | **⚡ ESP32 Ecosystem** |
+| <img src="https://skillicons.dev/icons?i=linux,kali,bash" /> | <img src="https://skillicons.dev/icons?i=nextjs,nodejs,mongodb" /> | <img src="https://skillicons.dev/icons?i=arduino,cpp,c" /> |
+| **• Advanced Penetration Testing** | **• Scalable Cloud Microservices** | **• Secure Hardware Firmware** |
+| **• Full-Spectrum VAPT Ops** | **• Resilient System Architecture** | **• Edge AI & Mesh Networking** |
+| **• OWASP Security Auditing** | **• Full-Stack DevSecOps** | **• ESP32 Protocol Engineering** |
 
 </div>
+
 
 
 
