@@ -1,21 +1,19 @@
 <div align="center">
 
 # ⚡ CHETAN GAVALI
-### **Engineer | Security Researcher | Full-Stack Architect**
-
-<img src="./banner.png" alt="Chetan Gavali Banner" width="100%" />
+### **Security Researcher | Full-Stack Architect | IoT Innovator**
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=chetanngavali&label=PROFILE%20VIEWS&color=0078d7&style=for-the-badge" alt="Views" />
-  <img src="https://img.shields.io/github/followers/chetanngavali?label=FOLLOWERS&style=for-the-badge&color=0078d7" alt="Followers" />
-  <img src="https://img.shields.io/badge/STATUS-OPERATIONAL-success?style=for-the-badge&color=0078d7" alt="Status" />
+  <img src="https://komarev.com/ghpvc/?username=chetanngavali&label=PROXIED%20ACCESS&color=0078d7&style=for-the-badge" alt="Views" />
+  <img src="https://img.shields.io/github/followers/chetanngavali?label=NETWORK%20NODES&style=for-the-badge&color=0078d7" alt="Followers" />
+  <img src="https://img.shields.io/badge/SYSTEM-ENCRYPTED-success?style=for-the-badge&color=0078d7" alt="Status" />
 </p>
 
 ---
 
-### �️ **EXECUTIVE SUMMARY**
+### 🛡️ **EXECUTIVE PROFILE**
 
-I specialize in the intersection of **Cybersecurity Architecture** and **Modern Web Systems**. As a Computer Science Engineering student, I bridge the gap between building high-performance applications and ensuring they are resilient against evolving threat landscapes. My philosophy is simple: **Security is not a feature; it is the foundation.**
+I specialize in the intersection of **Offensive Security Architecture** and **Modern Digital Systems**. As an engineer, I build high-performance applications with a "Security-First" philosophy, bridging the gap between innovative development and resilient protection.
 
 </div>
 
@@ -26,18 +24,18 @@ I specialize in the intersection of **Cybersecurity Architecture** and **Modern 
     <td width="50%" valign="top">
       <h4>⚡ CORE SPECIALIZATIONS</h4>
       <ul>
-        <li><b>Offensive Security:</b> Penetration testing, Vulnerability Assessment (VAPT), OWASP Top 10.</li>
-        <li><b>Full-Stack Engineering:</b> Scalable microservices, Real-time systems, Cloud-native apps.</li>
-        <li><b>IoT & Embedded:</b> Secure firmware development, Edge computing, ESP32 ecosystem.</li>
-        <li><b>Network Defense:</b> Traffic analysis, Firewall orchestration, Secure protocols.</li>
+        <li><b>Offensive Security:</b> Penetration testing, VAPT, OWASP Top 10.</li>
+        <li><b>Full-Stack Engineering:</b> Scalable microservices, Real-time systems.</li>
+        <li><b>IoT & Embedded:</b> Secure firmware, Edge computing, ESP32.</li>
+        <li><b>Network Defense:</b> Traffic analysis, Firewall orchestration.</li>
       </ul>
     </td>
     <td width="50%" valign="top">
       <h4>🚀 CURRENT INITIATIVES</h4>
       <ul>
-        <li>Developing advanced <b>AI-driven Security Tools</b> for automated threat detection.</li>
-        <li>Researching <b>Zero-Trust Architectures</b> in IoT mesh networks.</li>
-        <li>Optimizing <b>DevSecOps pipelines</b> for seamless secure deployments.</li>
+        <li>Developing advanced <b>AI-driven Security Tools</b>.</li>
+        <li>Researching <b>Zero-Trust Architectures</b> in IoT.</li>
+        <li>Optimizing <b>DevSecOps pipelines</b> for secure deployments.</li>
         <li>Contributing to open-source **Cybersecurity Frameworks**.</li>
       </ul>
     </td>
@@ -60,7 +58,7 @@ I specialize in the intersection of **Cybersecurity Architecture** and **Modern 
 
 ---
 
-### 📊 **GitHub PERFORMANCE**
+### 📊 **SYSTEM PERFORMANCE**
 
 <div align="center">
 
@@ -75,7 +73,7 @@ I specialize in the intersection of **Cybersecurity Architecture** and **Modern 
 
 ---
 
-### 🌐 **NETWORK & COLLABORATION**
+### 🌐 **NETWORK CONNECTIVITY**
 
 <div align="center">
 
@@ -87,7 +85,7 @@ I specialize in the intersection of **Cybersecurity Architecture** and **Modern 
 <br />
 
 ```bash
-# Initialize connection...
+# Handshake successful.
 printf "Always innovating. Secure by design."
 ```
 
