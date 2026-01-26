@@ -43,31 +43,36 @@ I transform complex security puzzles into resilient digital fortresses. My work 
 
 ---
 
-### 📊 **Operational Metrics**
+### � **OPERATIONAL METRICS**
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chetanngavali&show_icons=true&theme=transparent&hide_border=true&title_color=0078d7&icon_color=0078d7&text_color=c9d1d9&bg_color=00000000" height="170px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chetanngavali&layout=compact&theme=transparent&hide_border=true&title_color=0078d7&text_color=c9d1d9&bg_color=00000000" height="170px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=chetanngavali&show_icons=true&theme=vision-friendly-dark&hide_border=true&title_color=0078d7&icon_color=0078d7&text_color=c9d1d9&bg_color=0D1117" height="170px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chetanngavali&layout=compact&theme=vision-friendly-dark&hide_border=true&title_color=0078d7&text_color=c9d1d9&bg_color=0D1117" height="170px" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chetanngavali&theme=transparent&hide_border=true&stroke=0078d7&ring=0078d7&fire=0078d7&currStreakNum=0078d7&sideLabels=c9d1d9" width="80%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chetanngavali&theme=vision-friendly-dark&hide_border=true&background=0D1117&stroke=0078d7&ring=0078d7&fire=0078d7&currStreakNum=0078d7&sideLabels=c9d1d9" width="100%" />
 </div>
 
 ---
 
-### 📡 **Initialize Connection**
+### 📡 **NETWORK GATEWAY**
 
 <div align="center">
 
-<a href="https://linkedin.com/in/chetanngavali"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:chetanngavali@gmail.com"><img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://github.com/sponsors/chetanngavali"><img src="https://img.shields.io/badge/SPONSOR-EA4AAA?style=for-the-badge&logo=github-sponsors&logoColor=white" /></a>
+<p align="center">
+  <a href="https://linkedin.com/in/chetanngavali"><img src="https://skillicons.dev/icons?i=linkedin" height="40" /></a>
+  <a href="mailto:chetanngavali@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40" /></a>
+  <a href="https://twitter.com/chetanngavali"><img src="https://skillicons.dev/icons?i=twitter" height="40" /></a>
+  <a href="https://github.com/sponsors/chetanngavali"><img src="https://img.shields.io/badge/SPONSOR-Chetan-EA4AAA?style=for-the-badge&logo=github-sponsors&logoColor=white" height="40" /></a>
+</p>
 
 <br />
-<br />
 
-`System Status: Online | Security: Optimal | Innovation: High`
+**`ACCESS_STATUS: GRANTED`** | **`ENCRYPTION: AES-256`** | **`LATENCY: MINIMAL`**
+
+<br />
 
 Built with ⚡ by **Chetan Gavali**
 </div>
+
