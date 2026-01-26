@@ -1,45 +1,60 @@
 <div align="center">
 
-# 🌌 **CHETAN GAVALI**
-### **CYBERSECURITY ARCHITECT & FULL-STACK ENGINEER**
+# ⚡ CHETAN GAVALI
+### **SECURITY RESEARCHER | FULL-STACK ARCHITECT | IoT INNOVATOR**
 
 <p align="center">
-  <img src="https://img.shields.io/badge/EXPERT-CYBERSECURITY-blue?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/ARCHITECT-FULL_STACK-0078d7?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/INNOVATOR-IoT-blue?style=for-the-badge&logoColor=white" />
+  <img src="https://komarev.com/ghpvc/?username=chetanngavali&label=PROXIED%20ACCESS&color=0078d7&style=for-the-badge" alt="Views" />
+  <img src="https://img.shields.io/github/followers/chetanngavali?label=NETWORK%20NODES&style=for-the-badge&color=0078d7" alt="Followers" />
+  <img src="https://img.shields.io/badge/SYSTEM-ENCRYPTED-success?style=for-the-badge&color=0078d7" alt="Status" />
 </p>
 
 ---
 
-### 🏮 **Digital Identity**
+### 🛡️ **EXECUTIVE PROFILE**
 
-I transform complex security puzzles into resilient digital fortresses. My work lives at the intersection of **proactive defense** and **high-performance engineering**. I don't just build systems; I ensure they are bulletproof by design.
+I specialize in the intersection of **Offensive Security Architecture** and **Modern Digital Systems**. As an engineer, I build high-performance applications with a "Security-First" philosophy, bridging the gap between innovative development and resilient protection.
 
 </div>
 
 <br />
 
-<div align="center">
-
-### 🛡️ **Core Competencies**
-
-| ⚔️ Offensive Security | 🏗️ Architecture | 📡 IoT & Hardware |
-| :--- | :--- | :--- |
-| Penetration Testing | Scalable Solutions | Secure Firmware |
-| VAPT Operations | Cloud Native Apps | Edge Computing |
-| OWASP Strategy | Microservices | ESP32 Ecosystem |
-
-</div>
+<table align="center">
+  <tr>
+    <td width="50%" valign="top">
+      <h4>⚡ CORE SPECIALIZATIONS</h4>
+      <ul>
+        <li><b>Offensive Security:</b> Penetration testing, VAPT, OWASP Top 10.</li>
+        <li><b>Full-Stack Engineering:</b> Scalable microservices, Real-time systems.</li>
+        <li><b>IoT & Embedded:</b> Secure firmware, Edge computing, ESP32.</li>
+        <li><b>Network Defense:</b> Traffic analysis, Firewall orchestration.</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🚀 CURRENT INITIATIVES</h4>
+      <ul>
+        <li>Developing advanced <b>AI-driven Security Tools</b>.</li>
+        <li>Researching <b>Zero-Trust Architectures</b> in IoT.</li>
+        <li>Optimizing <b>DevSecOps pipelines</b> for secure deployments.</li>
+        <li>Contributing to open-source **Cybersecurity Frameworks**.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 🛠️ **The Arsenal**
+### 🛠️ **TECH ARSENAL**
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=py,js,ts,cpp,bash,c,react,nextjs,nodejs,express,mongodb,mysql,tailwind,linux,kali,arduino,git,docker,gcp,ps&perline=10" />
-</div>
 
-<br />
+| CATEGORY | TECH STACK |
+| :--- | :--- |
+| **LANGUAGES** | <p align="left"><img src="https://skillicons.dev/icons?i=py,js,ts,cpp,bash,c" /></p> |
+| **DEVELOPMENT** | <p align="left"><img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,mysql,tailwind,html,css" /></p> |
+| **SECURITY & OPS** | <p align="left"><img src="https://skillicons.dev/icons?i=linux,kali,arduino,git,docker,gcp,postman,ps" /></p> |
+
+</div>
 
 ---
 
