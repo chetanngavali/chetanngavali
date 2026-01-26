@@ -1,13 +1,14 @@
 <div align="center">
 
-# 🌌 **CHETAN GAVALI**
-### **CYBERSECURITY ARCHITECT & FULL-STACK ENGINEER**
+# 💠 **CORE//CHETAN-GAVALI**
+### `CYBERSECURITY_ARCHITECT_v3.2` | `FULL_STACK_ENGINEER`
 
 <p align="center">
-  <img src="https://img.shields.io/badge/EXPERT-CYBERSECURITY-blue?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/ARCHITECT-FULL_STACK-0078d7?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/INNOVATOR-IoT-blue?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/SECURITY-OVERRIDE-0078d7?style=for-the-badge&logo=shield&logoColor=white" />
+  <img src="https://img.shields.io/badge/ENGINE_CORE-ACTIVE-0078d7?style=for-the-badge&logo=cpu&logoColor=white" />
+  <img src="https://img.shields.io/badge/NODE_STATUS-OPTIMAL-0078d7?style=for-the-badge&logo=server&logoColor=white" />
 </p>
+
 
 ---
 
