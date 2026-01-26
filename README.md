@@ -5,43 +5,63 @@
 <p align="center">
   <img src="https://img.shields.io/badge/ARCH-v4.0-7aa2f7?style=for-the-badge" />
   <img src="https://img.shields.io/badge/IDENTITY-VERIFIED-9ece6a?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/ENCRYPTION-ACTIVE-bb9af7?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/STATUS-OPERATIONAL-bb9af7?style=for-the-badge" />
 </p>
 
 ---
 
 ### ⚡ **TACTICAL MISSION PROFILE**
 
-> I operate at the intersection of **Invasive Security** and **Resilient Engineering**. My methodology involves deconstructing complex threat vectors to architect digital systems that are secure by design, horizontally scalable, and natively defended.
+> **"I deconstruct complex threat vectors to architect systems that are secure by design."**
+> 
+> I am a **Cybersecurity Engineering Student** based in India, dedicated to the art of **Offensive Security** and **Resilient System Design**. My work involves identifying vulnerabilities before they are exploited and building applications where security is integrated into the core architecture, not just added as an afterthought.
+
+**🔭 Currently Focused On:** Identifying Web App vulnerabilities, Zero-Trust Architectures, and Secure IoT protocols.  
+**🤝 Looking For:** Cybersecurity Internships, Bug Bounty collaborations, and Open Source security tooling projects.
 
 ---
 
-<div align="center">
+### 🛡️ **CORE SPECIALIZATIONS**
 
-| <img src="https://img.shields.io/badge/OFFENSIVE_OPS-7aa2f7?style=for-the-badge&logo=kali-linux&logoColor=white" /> | <img src="https://img.shields.io/badge/CORE_ARCHITECTURE-9ece6a?style=for-the-badge&logo=nextdotjs&logoColor=white" /> | <img src="https://img.shields.io/badge/EDGE_COMPUTING-bb9af7?style=for-the-badge&logo=arduino&logoColor=white" /> |
-| :---: | :---: | :---: |
-| **Advanced Pentesting** | **Scalable Systems** | **Secure Firmware** |
-| **Full-Spectrum VAPT** | **Cloud Orchestration** | **Edge Intelligence** |
-| **Security Auditing** | **Microservices** | **Protocol Engineering** |
+| <img src="https://img.shields.io/badge/OFFENSIVE_OPS-7aa2f7?style=for-the-badge&logo=kali-linux&logoColor=white" /> | <img src="https://img.shields.io/badge/SYSTEM_ARCH-9ece6a?style=for-the-badge&logo=nextdotjs&logoColor=white" /> | <img src="https://img.shields.io/badge/IOT_SECURITY-bb9af7?style=for-the-badge&logo=arduino&logoColor=white" /> |
+| :--- | :--- | :--- |
+| **• Web App Pentesting (Advanced)** | **• Scalable Microservices** | **• Secure Firmware Dev** |
+| **• VAPT & Threat Modeling** | **• Cloud-Native Solutions** | **• Edge Intelligence** |
+| **• OWASP Security Auditing** | **• Secure Auth & DevSecOps** | **• Protocol Engineering** |
 
 </div>
 
-<br/>
+<br />
+
+### � **FEATURED DEPLOYMENTS**
+
+- **⚡ StayBuddy** – A premium hostel discovery platform serving hundreds of users. Implemented military-grade secure authentication, input validation, and rate-limiting to prevent brute-force attacks.
+  - *Tech: React, Node.js, MongoDB, JWT, Express-Validator*
+- **🛡️ Secure IoT Gateway** – (Ongoing) A prototype for encrypting sensor data at the edge before cloud transmission.
+  - *Tech: ESP32, MQTT over TLS, C++, Arduino*
+- **🔍 VulnScanner-Py** – A custom Python-based tool for automated discovery of common OWASP Top 10 vulnerabilities in web applications.
+  - *Tech: Python, BeautifulSoup, Requests*
 
 ---
 
 ### 🛠️ **SYSTEM ARSENAL**
 
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=py,js,ts,cpp,bash,c,react,nextjs,nodejs,express,mongodb,mysql,tailwind,linux,kali,arduino,git,docker,gcp,ps&perline=10" />
-</div>
-
-<br />
+- **Languages:** `Python` (Primary), `JavaScript`, `TypeScript`, `C/C++`, `Bash`
+- **Frameworks/Web:** `React`, `Next.js`, `Node.js`, `Express`, `Tailwind CSS`
+- **Security & Ops:** `Linux (Kali/Ubuntu)`, `Git`, `Docker`, `Burp Suite`, `OWASP ZAP`, `Arduino`, `Postman`
+- **Cloud/Databases:** `MongoDB`, `MySQL`, `GCP`, `Firebase`
 
 ---
 
-### � **REAL-TIME TELEMETRY**
+### 📑 **FIELD REPORTS (BLOG & WRITEUPS)**
+
+- [Coming Soon] **"Escalating Privileges in Linux Environments"**
+- [Coming Soon] **"The OWASP Top 10 for IoT: A Deep Dive"**
+- [Coming Soon] **"My Journey into Bug Bounty Hunting"**
+
+---
+
+### 📊 **REAL-TIME TELEMETRY**
 
 <div align="center">
 
@@ -59,13 +79,16 @@
 
 <div align="center">
 
-| | | |
-| :---: | :---: | :---: |
-| <a href="https://linkedin.com/in/chetanngavali"><img src="https://skillicons.dev/icons?i=linkedin" height="40" /></a> | <a href="mailto:chetanngavali@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40" /></a> | <a href="https://twitter.com/chetanngavali"><img src="https://skillicons.dev/icons?i=twitter" height="40" /></a> |
+| [LinkedIn](https://linkedin.com/in/chetanngavali) | [Email](mailto:chetanngavali@gmail.com) | [Twitter](https://twitter.com/chetanngavali) | [Sponsor](https://github.com/sponsors/chetanngavali) |
+| :---: | :---: | :---: | :---: |
 
 <br />
 
-**`System Status: Online`** | **`Secure-Auth: PASS`** | **`Latency: 14ms`**
+**`System Status: Online`** | **`Secure-Auth: PASS`** | **`INTERESTS: INTERNSHIPS // CTF_TEAMS // COLLABS`**
+
+<br />
+
+**Open to security internships, collaborations on offensive tooling, and CTF teams – reach out via LinkedIn or Email.**
 
 <br />
 
