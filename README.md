@@ -40,11 +40,22 @@
 
 ---
 
-### 🛠️ **The Arsenal**
+### 🛠️ **CORE STACK CONFIGURATION**
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=py,js,ts,cpp,bash,c,react,nextjs,nodejs,express,mongodb,mysql,tailwind,linux,kali,arduino,git,docker,gcp,ps&perline=10" />
+
+| | | |
+| :---: | :---: | :---: |
+| <img src="https://skillicons.dev/icons?i=py,js,ts,cpp,bash,c" /> | <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css" /> | <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" /> |
+| **Foundational** | **Frontend** | **Backend** |
+
+| | |
+| :---: | :---: |
+| <img src="https://skillicons.dev/icons?i=linux,kali,arduino" /> | <img src="https://skillicons.dev/icons?i=git,docker,gcp,postman,ps" /> |
+| **Security & IoT** | **DevOps & Tools** |
+
 </div>
+
 
 <br />
 
