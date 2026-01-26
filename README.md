@@ -43,12 +43,16 @@ I transform complex security puzzles into resilient digital fortresses. My work 
 
 ---
 
-### � **SYSTEM CORE ANALYTICS**
+### 💹 **SYSTEM CORE ANALYTICS**
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chetanngavali&show_icons=true&theme=tokyonight&hide_border=true&title_color=7aa2f7&icon_color=7aa2f7&text_color=9ece6a&bg_color=1a1b26" height="175px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chetanngavali&layout=compact&theme=tokyonight&hide_border=true&title_color=7aa2f7&text_color=9ece6a&bg_color=1a1b26" height="175px" />
+
+| | |
+| :---: | :---: |
+| <img src="https://github-readme-stats.vercel.app/api?username=chetanngavali&show_icons=true&theme=tokyonight&hide_border=true&title_color=7aa2f7&icon_color=7aa2f7&text_color=9ece6a&bg_color=1a1b26" height="185px" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chetanngavali&layout=compact&theme=tokyonight&hide_border=true&title_color=7aa2f7&text_color=9ece6a&bg_color=1a1b26" height="185px" /> |
+
 </div>
+
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=chetanngavali&theme=tokyonight&hide_border=true&area=true&bg_color=1a1b26&color=7aa2f7&line=7aa2f7&point=9ece6a" width="100%" />
