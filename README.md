@@ -10,37 +10,28 @@
 
 ---
 
-### 🌐 **THE DIGITAL MANIFESTO**
+### ⚡ **TACTICAL MISSION PROFILE**
 
-I specialize in architecting **Resilient Digital Fortresses**. By merging the precision of **Offensive Security** with the fluidity of **High-Performance Engineering**, I ensure that security is not a perimeter, but the very DNA of every system I build.
-
-</div>
-
-<br />
-
-<table align="center" border="0">
-  <tr>
-    <td align="center" width="33%">
-      <img src="https://skillicons.dev/icons?i=kali" width="50" />
-      <br/><b>OFFENSIVE OPS</b><br/>
-      <small>Pentesting / VAPT<br/>OWASP Expertise</small>
-    </td>
-    <td align="center" width="33%">
-      <img src="https://skillicons.dev/icons?i=nextjs" width="50" />
-      <br/><b>CORE ARCH</b><br/>
-      <small>Scalable Cloud<br/>Microservices</small>
-    </td>
-    <td align="center" width="33%">
-      <img src="https://skillicons.dev/icons?i=arduino" width="50" />
-      <br/><b>IOT CORE</b><br/>
-      <small>Secure Firmware<br/>Edge Intelligence</small>
-    </td>
-  </tr>
-</table>
+> I operate at the intersection of **Invasive Security** and **Resilient Engineering**. My methodology involves deconstructing complex threat vectors to architect digital systems that are secure by design, horizontally scalable, and natively defended.
 
 ---
 
-### �️ **CORE CONFIGURATION**
+<div align="center">
+
+| <img src="https://img.shields.io/badge/OFFENSIVE_OPS-7aa2f7?style=for-the-badge&logo=kali-linux&logoColor=white" /> | <img src="https://img.shields.io/badge/CORE_ARCHITECTURE-9ece6a?style=for-the-badge&logo=nextdotjs&logoColor=white" /> | <img src="https://img.shields.io/badge/EDGE_COMPUTING-bb9af7?style=for-the-badge&logo=arduino&logoColor=white" /> |
+| :---: | :---: | :---: |
+| **Advanced Pentesting** | **Scalable Systems** | **Secure Firmware** |
+| **Full-Spectrum VAPT** | **Cloud Orchestration** | **Edge Intelligence** |
+| **Security Auditing** | **Microservices** | **Protocol Engineering** |
+
+</div>
+
+<br/>
+
+---
+
+### 🛠️ **SYSTEM ARSENAL**
+
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=py,js,ts,cpp,bash,c,react,nextjs,nodejs,express,mongodb,mysql,tailwind,linux,kali,arduino,git,docker,gcp,ps&perline=10" />
