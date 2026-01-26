@@ -61,7 +61,21 @@
 
 ---
 
-### 📊 **REAL-TIME TELEMETRY**
+### �️ **OPERATIONAL INTELLIGENCE (LABS)**
+
+- **🏠 Home Lab V2.0**: A dedicated Active Directory environment with Windows Server 2022 and multiple client VMs. Used for practicing Lateral Movement, Privilege Escalation, and Blue Team monitoring with SIEM tools.
+- **🌐 IoT Sandbox**: A secure mesh network of ESP32 nodes used to test man-in-the-middle (MITM) resilience and encrypted protocol stability.
+
+---
+
+### 🎓 **PROFESSIONAL DEVELOPMENT**
+
+- **🎯 Target Path**: Preparing for **eJPT (Junior Penetration Tester)** and **OSCP** certifications.
+- **🏆 Learning**: Advanced Web Hacking, Network Pivoting, and Malware Analysis.
+
+---
+
+### 📉 **REAL-TIME TELEMETRY**
 
 <div align="center">
 
@@ -94,3 +108,4 @@
 
 Built with 🤍 by **Chetan Gavali**
 </div>
+
