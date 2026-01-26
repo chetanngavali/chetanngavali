@@ -11,9 +11,9 @@
 
 ---
 
-### 🏮 **Digital Identity**
+### 🔍 **EXECUTIVE SUMMARY**
 
-I transform complex security puzzles into resilient digital fortresses. My work lives at the intersection of **proactive defense** and **high-performance engineering**. I don't just build systems; I ensure they are bulletproof by design.
+I architect resilient digital ecosystems by bridging the gap between **offensive security protocols** and **high-performance engineering**. My focus is on developing natively secure systems that are robust, scalable, and prepared for the evolving threat landscape.
 
 </div>
 
@@ -21,15 +21,16 @@ I transform complex security puzzles into resilient digital fortresses. My work 
 
 <div align="center">
 
-### 🛡️ **Core Competencies**
+### 🛡️ **CORE SPECIALIZATIONS**
 
-| ⚔️ Offensive Security | 🏗️ Architecture | 📡 IoT & Hardware |
+| ⚔️ OFFENSIVE SECURITY | 🏗️ SYSTEM ARCHITECTURE | 📡 IOT & EMBEDDED |
 | :--- | :--- | :--- |
-| Penetration Testing | Scalable Solutions | Secure Firmware |
-| VAPT Operations | Cloud Native Apps | Edge Computing |
-| OWASP Strategy | Microservices | ESP32 Ecosystem |
+| **Penetration Testing** | **Scalable Microservices** | **Secure Firmware Dev** |
+| **VAPT Operations** | **Cloud-Native Solutions** | **Edge Intelligence** |
+| **OWASP Compliance** | **Full-Stack Orchestration** | **ESP32/IoT Ecosystem** |
 
 </div>
+
 
 ---
 
