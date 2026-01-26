@@ -1,81 +1,95 @@
 <div align="center">
 
-# 🚀 Chetan Gavali
-### **Cybersecurity Enthusiast | Full Stack Developer | IoT Innovator**
+# ⚡ CHETAN GAVALI
+### **Engineer | Security Researcher | Full-Stack Architect**
 
 <img src="./banner.png" alt="Chetan Gavali Banner" width="100%" />
 
-[![Profile Views](https://komarev.com/ghpvc/?username=chetanngavali&label=Profile%20views&color=0e75b6&style=flat-square)](https://github.com/chetanngavali)
-[![Twitter Follow](https://img.shields.io/twitter/follow/chetanngavali?style=social)](https://twitter.com/chetanngavali)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Chetan%20Gavali-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/chetanngavali)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=chetanngavali&label=PROFILE%20VIEWS&color=0078d7&style=for-the-badge" alt="Views" />
+  <img src="https://img.shields.io/github/followers/chetanngavali?label=FOLLOWERS&style=for-the-badge&color=0078d7" alt="Followers" />
+  <img src="https://img.shields.io/badge/STATUS-OPERATIONAL-success?style=for-the-badge&color=0078d7" alt="Status" />
+</p>
 
 ---
 
-### 👨‍💻 **About Me**
+### �️ **EXECUTIVE SUMMARY**
 
-I am a forward-thinking **Computer Science Engineering Student** dedicated to architecting secure, scalable, and intelligent digital solutions. My expertise bridges the gap between sophisticated web development and rigorous cybersecurity protocols.
+I specialize in the intersection of **Cybersecurity Architecture** and **Modern Web Systems**. As a Computer Science Engineering student, I bridge the gap between building high-performance applications and ensuring they are resilient against evolving threat landscapes. My philosophy is simple: **Security is not a feature; it is the foundation.**
 
 </div>
-
-- 🛡️ **Cyber Defense:** Skilled in Ethical Hacking, Network Security Auditing, and OWASP-driven application security.
-- ⚡ **IoT Innovation:** Architecting smart systems using ESP32/ESP8266 and integrated automation frameworks.
-- 🌐 **Modern Web:** Designing high-performance full-stack applications with React, Node.js, and modern styling.
-- 🎓 **Lifelong Student:** Currently exploring Cloud Security Architectures and Advanced Penetration Testing.
-- � **Collaboration:** Open to innovative projects and security research. [chetanngavali@gmail.com](mailto:chetanngavali@gmail.com)
-
----
-
-### 🛠️ **Tech Stack & Arsenal**
-
-<div align="center">
-
-| Category | Tools & Technologies |
-| :--- | :--- |
-| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white) |
-| **Frontend** | ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) |
-| **Backend** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) |
-| **Cyber & IoT** | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white) ![ESP32](https://img.shields.io/badge/Hardware-ESP32-E7352C?style=flat-square) ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white) |
-| **DevOps** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) |
-
-</div>
-
----
-
-### 📊 **GitHub Analytics**
-
-<div align="center">
-
-| Top Languages | Stats & Contributions |
-| :---: | :---: |
-| <img src="https://github-readme-stats.vercel.app/api/top-langs?username=chetanngavali&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" height="165px" /> | <img src="https://github-readme-stats.vercel.app/api?username=chetanngavali&show_icons=true&locale=en&theme=vision-friendly-dark" height="165px" /> |
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=chetanngavali&theme=vision-friendly-dark" width="100%" />
-
-</div>
-
----
-
-### 🌐 **Connect & Network**
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/chetanngavali)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/chetanngavali)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/chetanngavali)
-[![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/chetanngavali)
-[![CodePen](https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/chetanngavali)
-
-</div>
-
----
-
-### 💖 **Support My Work**
-
-<div align="center">
-
-[![Sponsor](https://img.shields.io/badge/Sponsor-Chetan%20Gavali-EA4AAA?style=for-the-badge&logo=github-sponsors&logoColor=white)](https://github.com/sponsors/chetanngavali)
 
 <br />
 
-Built with ❤️ by **Chetan Gavali** using **Antigravity AI**
+<table align="center">
+  <tr>
+    <td width="50%" valign="top">
+      <h4>⚡ CORE SPECIALIZATIONS</h4>
+      <ul>
+        <li><b>Offensive Security:</b> Penetration testing, Vulnerability Assessment (VAPT), OWASP Top 10.</li>
+        <li><b>Full-Stack Engineering:</b> Scalable microservices, Real-time systems, Cloud-native apps.</li>
+        <li><b>IoT & Embedded:</b> Secure firmware development, Edge computing, ESP32 ecosystem.</li>
+        <li><b>Network Defense:</b> Traffic analysis, Firewall orchestration, Secure protocols.</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🚀 CURRENT INITIATIVES</h4>
+      <ul>
+        <li>Developing advanced <b>AI-driven Security Tools</b> for automated threat detection.</li>
+        <li>Researching <b>Zero-Trust Architectures</b> in IoT mesh networks.</li>
+        <li>Optimizing <b>DevSecOps pipelines</b> for seamless secure deployments.</li>
+        <li>Contributing to open-source **Cybersecurity Frameworks**.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🛠️ **TECH ARSENAL**
+
+<div align="center">
+
+| CATEGORY | TECH STACK |
+| :--- | :--- |
+| **LANGUAGES** | <p align="left"><img src="https://skillicons.dev/icons?i=py,js,ts,cpp,bash,c" /></p> |
+| **DEVELOPMENT** | <p align="left"><img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,mysql,tailwind,html,css" /></p> |
+| **SECURITY & OPS** | <p align="left"><img src="https://skillicons.dev/icons?i=linux,kali,arduino,git,docker,gcp,postman,ps" /></p> |
+
+</div>
+
+---
+
+### 📊 **GitHub PERFORMANCE**
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=chetanngavali&show_icons=true&theme=vision-friendly-dark&hide_border=true&bg_color=0D1117&title_color=0078d7&icon_color=0078d7&text_color=c9d1d9" height="180px" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chetanngavali&layout=compact&theme=vision-friendly-dark&hide_border=true&bg_color=0D1117&title_color=0078d7&text_color=c9d1d9" height="180px" />
+
+<br />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=chetanngavali&theme=vision-friendly-dark&hide_border=true&background=0D1117&stroke=0078d7&ring=0078d7&fire=0078d7&currStreakNum=0078d7&sideLabels=c9d1d9" width="100%" />
+
+</div>
+
+---
+
+### 🌐 **NETWORK & COLLABORATION**
+
+<div align="center">
+
+<a href="https://linkedin.com/in/chetanngavali"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://twitter.com/chetanngavali"><img src="https://img.shields.io/badge/TWITTER-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+<a href="mailto:chetanngavali@gmail.com"><img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://github.com/sponsors/chetanngavali"><img src="https://img.shields.io/badge/SPONSOR-EA4AAA?style=for-the-badge&logo=github-sponsors&logoColor=white" /></a>
+
+<br />
+
+```bash
+# Initialize connection...
+printf "Always innovating. Secure by design."
+```
+
+Built with ⚡ by **Chetan Gavali**
 </div>
