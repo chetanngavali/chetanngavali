@@ -43,7 +43,7 @@ I transform complex security puzzles into resilient digital fortresses. My work 
 
 ---
 
-### � **OPERATIONAL METRICS**
+### 💹 **OPERATIONAL METRICS**
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=chetanngavali&show_icons=true&theme=vision-friendly-dark&hide_border=true&title_color=0078d7&icon_color=0078d7&text_color=c9d1d9&bg_color=0D1117" height="170px" />
@@ -51,7 +51,7 @@ I transform complex security puzzles into resilient digital fortresses. My work 
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chetanngavali&theme=vision-friendly-dark&hide_border=true&background=0D1117&stroke=0078d7&ring=0078d7&fire=0078d7&currStreakNum=0078d7&sideLabels=c9d1d9" width="100%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chetanngavali&theme=vision-friendly-dark&hide_border=true&stroke=0078d7&ring=0078d7&fire=0078d7&currStreakNum=0078d7" width="100%" />
 </div>
 
 ---
