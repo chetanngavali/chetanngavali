@@ -12,7 +12,7 @@
 
 ### 🛡️ **EXECUTIVE TERMINAL**
 
-I engineer at the intersection of **Offensive Security** and **High-Performance Architecture**. My mission is to deconstruct complex threat vectors and architect digital fortresses that are secure by design, horizontally scalable, and natively defended.
+My mission is to deconstruct complex threat vectors and architect digital fortresses that are secure by design, horizontally scalable, and natively defended.
 
 **`LOCATION:`** India | **`FOCUS:`** Web Security // IoT // Zero-Trust | **`STATUS:`** Seeking Internships
 
