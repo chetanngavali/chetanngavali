@@ -24,13 +24,27 @@
 
 ```json
 {
-  "name"        : "Chetan Gavali",
-  "location"    : "📍 Nashik, Maharashtra, India",
-  "education"   : "🎓 B.E. CS (2023–2027)",
-  "roles"       : ["🔐 Ethical Hacker", "💻 Full-Stack Dev", "📡 IoT Researcher", "🚩 CTF Player"],
-  "learning"    : ["Next.js", "Bug Bounty", "Pen Testing"],
-  "ask_me"      : ["Cyber Security", "ESP8266 Attacks", "CTF Writeups", "MERN Stack", "Website Development", "App Development", "IoT Security"],
-  "fun_fact"    : ["🛜 I break Wi-Fi networks... legally 😈", "I am a CTF player and I have won 1 CTF competition and 3 hackathon finals", "I am a full-stack developer and I have built many websites and apps", "I am an IoT researcher and I have built many IoT projects"]
+  "name": "Chetan Gavali",
+  "location": "📍 Nashik, Maharashtra, India",
+  "education": "🎓 B.E. CS Pursuing",
+  "roles": [
+    "🔐 Ethical Hacker",
+    "💻 Full-Stack Dev",
+    "📡 IoT Researcher",
+    "🚩 CTF Player"
+  ],
+  "learning": [
+    "Next.js",
+    "Bug Bounty",
+    "System Security"
+  ],
+  "ask_me": [
+    "Cyber Security",
+    "ESP8266 Attacks",
+    "CTF Writeups",
+    "MERN Stack"
+  ],
+  "fun_fact": "🛜 I break Wi-Fi networks... legally 😈"
 }
 ```
 
@@ -85,46 +99,39 @@
 
 <div align="center">
 
-### 🛡️ Flagship Research: EVIL_TWINS_ESP8266
-  
-[![Hacking Tool](https://img.shields.io/badge/Security_Research-Project-critical?style=for-the-badge&logo=kali-linux&logoColor=white)](https://github.com/chetanngavali/ESP8266-Evil-Twin-Project)
-[![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://github.com/chetanngavali/ESP8266-Evil-Twin-Project)
-[![ESP8266](https://img.shields.io/badge/ESP8266-E01E22?style=for-the-badge&logo=espressif&logoColor=white)](https://github.com/chetanngavali/ESP8266-Evil-Twin-Project)
-
-**A high-performance Wi-Fi MITM & Rogue Access Point simulation framework.**
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=FF4444&center=true&vCenter=true&width=500&lines=%E2%96%B6+Fake+AP+%2B+Credential+Harvesting;%E2%96%B6+Real-time+Web+Control+Panel;%E2%96%B6+Dual-Channel+OLED+Status+Monitoring" />
-
----
-
 <table width="100%">
 <tr>
 <td width="50%" align="center" valign="top">
 
-### 📻 NRFBox-by-RootQubit
-[![RF Hacking](https://img.shields.io/badge/RF-Security-7aa2f7?style=flat-square&logo=radio-automation&logoColor=white)](https://github.com/chetanngavali/NRFBox-by-RootQubit)
-[![C](https://img.shields.io/badge/Language-C-A8B9CC?style=flat-square&logo=c&logoColor=white)](https://github.com/chetanngavali/NRFBox-by-RootQubit)
+### 🛡️ EVIL_TWINS_ESP8266
+  
+[![Hacking Tool](https://img.shields.io/badge/Security_Research-Project-critical?style=for-the-badge&logo=kali-linux&logoColor=white)](https://github.com/chetanngavali/ESP8266-Evil-Twin-Project)
+[![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://github.com/chetanngavali/ESP8266-Evil-Twin-Project)
 
-**Wireless signal research tools.**
-*Sub-GHz & RF hacking via NRF24L01.*
+**Wi-Fi MITM & Rogue Access Point framework.**
 
-[**📦 View Repository**](https://github.com/chetanngavali/NRFBox-by-RootQubit)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=10&pause=1000&color=FF4444&center=true&vCenter=true&width=330&lines=%E2%96%B6+Fake+AP+%2B+Credential+Harvesting;%E2%96%B6+Real-time+Web+Control+Panel;%E2%96%B6+Dual-Channel+OLED+Status+Monitoring" />
+
+[**🚀 Launch Project**](https://github.com/chetanngavali/ESP8266-Evil-Twin-Project)
 
 </td>
 <td width="50%" align="center" valign="top">
 
 ### 🔐 secure_stego
-[![Stego](https://img.shields.io/badge/Steganography-Tool-bb9af7?style=flat-square&logo=shield&logoColor=white)](https://github.com/chetanngavali/secure_stego)
-[![Python](https://img.shields.io/badge/Language-Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://github.com/chetanngavali/secure_stego)
+[![Stego](https://img.shields.io/badge/Steganography-Tool-bb9af7?style=for-the-badge&logo=shield&logoColor=white)](https://github.com/chetanngavali/secure_stego)
+[![Python](https://img.shields.io/badge/Language-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/chetanngavali/secure_stego)
 
 **AEAD-encrypted image steganography.**
-*ChaCha20-Poly1305 with random pixel ordering.*
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=10&pause=1000&color=bb9af7&center=true&vCenter=true&width=330&lines=%E2%96%B6+AES-256-GCM+%2B+ChaCha20;%E2%96%B6+Random+Pixel+Ordering;%E2%96%B6+Secure+Payload+Extraction" />
 
 [**🔑 View Repository**](https://github.com/chetanngavali/secure_stego)
 
 </td>
 </tr>
 </table>
+
+</div>
 
 </div>
 

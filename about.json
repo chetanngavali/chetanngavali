@@ -1,9 +1,23 @@
 {
-  "name"        : "Chetan Gavali",
-  "location"    : "📍 Nashik, Maharashtra, India",
-  "education"   : "🎓 B.E. CS — KK Wagh Institute (2023–2027)",
-  "roles"       : ["🔐 Ethical Hacker", "💻 Full-Stack Dev", "📡 IoT Researcher", "🚩 CTF Player"],
-  "learning"    : ["Next.js", "Bug Bounty", "System Security"],
-  "ask_me"      : ["Cyber Security", "ESP8266 Attacks", "CTF Writeups", "MERN Stack"],
-  "fun_fact"    : "🛜 I break Wi-Fi networks... legally 😈"
+  "name": "Chetan Gavali",
+  "location": "📍 Nashik, Maharashtra, India",
+  "education": "🎓 B.E. CS Pursuin",
+  "roles": [
+    "🔐 Ethical Hacker",
+    "💻 Full-Stack Dev",
+    "📡 IoT Researcher",
+    "🚩 CTF Player"
+  ],
+  "learning": [
+    "Next.js",
+    "Bug Bounty",
+    "System Security"
+  ],
+  "ask_me": [
+    "Cyber Security",
+    "ESP8266 Attacks",
+    "CTF Writeups",
+    "MERN Stack"
+  ],
+  "fun_fact": "🛜 I break Wi-Fi networks... legally 😈"
 }
