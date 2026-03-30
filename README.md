@@ -23,17 +23,9 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00FF88&center=true&vCenter=true&width=600&lines=%24+whoami;Chetan+Gavali+%E2%80%94+Ethical+Hacker+%26+Builder;%24+cat+about.json" />
 </div>
 
-```json
-{
-  "name"        : "Chetan Gavali",
-  "location"    : "📍 Nashik, Maharashtra, India",
-  "education"   : "🎓 B.E. CS (2023–2027)",
-  "roles"       : ["🔐 Ethical Hacker", "💻 Full-Stack Dev", "📡 IoT Researcher", "🚩 CTF Player"],
-  "learning"    : ["Next.js", "Bug Bounty", "Pen Testing"],
-  "ask_me"      : ["Cyber Security", "ESP8266 Attacks", "CTF Writeups", "MERN Stack", "Website Development", "App Development", "IoT Security"],
-  "fun_fact"    : ["🛜 I break Wi-Fi networks... legally 😈", "I am a CTF player and I have won 1 CTF competition and 3 hackathon finals", "I am a full-stack developer and I have built many websites and apps", "I am an IoT researcher and I have built many IoT projects"]
-}
-```
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&pause=1000&color=00D9FF&center=false&vCenter=false&multiline=true&width=900&height=320&lines=%7B;%20%20%22name%22%20%20%20%20%20%20%20%20:%20%22Chetan%20Gavali%22,;%20%20%22location%22%20%20%20%20:%20%22%F0%9F%93%8D%20Nashik,%20Maharashtra,%20India%22,;%20%20%22education%22%20%20%20:%20%22%F0%9F%8E%93%20B.E.%20CS%20(2023%E2%80%932027)%22,;%20%20%22roles%22%20%20%20%20%20%20%20:%20[%22%F0%9F%94%90%20Ethical%20Hacker%22,%20%22%F0%9F%92%BB%20Full-Stack%20Dev%22,%20%22%F0%9F%93%A1%20IoT%20Researcher%22],;%20%20%22learning%22%20%20%20%20:%20[%22Next.js%22,%20%22Bug%20Bounty%22,%20%22Pen%20Testing%22],;%20%20%22ask_me%22%20%20%20%20%20%20:%20[%22Cyber%20Security%22,%20%22MERN%20Stack%22,%20%22IoT%20Security%22,%20%22App%20Dev%22],;%20%20%22fun_fact%22%20%20%20%20:%20[%22%F0%9F%9B%9C%20I%20break%20Wi-Fi%20networks...%20legally%20%F0%9F%98%88%22,%20%22CTF%20player%20%26%20Hackathon%20finalist%22];%7D" alt="Animated about.json content" />
+</div>
 
 ---
 
