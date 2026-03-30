@@ -1,27 +1,18 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Chetan%20Gavali&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Ethical%20Hacker%20%7C%20Full-Stack%20Dev%20%7C%20IoT%20Security%20%7C%20CTF%20Player&descAlignY=55&descSize=16" />
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2500&pause=1500&color=00D9FF&center=true&vCenter=true&width=800&lines=Hey+there!+I'm+Chetan+Gavali+%F0%9F%91%8B;Ethical+Hacker+%26+Full-Stack+Developer+%F0%9F%94%90;IoT+Security+Researcher+%F0%9F%93%A1;CTF+Player+%7C+1+Win+%2B+3+Hackathon+Finals+%F0%9F%8F%86;Building+Secure+%26+Impactful+Tech+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=250&section=header&text=CHETAN%20GAVALI&fontSize=60&fontColor=00d9ff&animation=fadeIn&fontAlignY=40&desc=ETHICAL%20Hacker%20|%20IoT%20Researcher%20|%20Full-Stack%20Developer&descAlignY=65&descSize=18&descColor=7aa2f7" />
 
 <br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00d9ff)](https://www.linkedin.com/in/chetanngavali/)
-[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=00d9ff)](https://github.com/chetanngavali)
-[![HackerRank](https://img.shields.io/badge/HackerRank-0d1117?style=for-the-badge&logo=HackerRank&logoColor=00d9ff)](https://www.hackerrank.com/chetanngavali)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-0d1117?style=for-the-badge&logo=tryhackme&logoColor=00d9ff)](https://tryhackme.com/p/chetanngavali)
-
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=chetanngavali&label=Profile+Views&color=00d9ff&style=for-the-badge)
-
-</div>
-
-<div align="center">
 
 <a href="https://chetanngavali.github.io/test_profile.html">
   <img src="https://img.shields.io/badge/Launch_Interactive_Terminal-0d1117?style=for-the-badge&logo=gnumetadata&logoColor=00d9ff" alt="Launch Dashboard" />
 </a>
+
+<br/><br/>
+
+[![Status](https://img.shields.io/badge/STATUS-SECURE-success?style=for-the-badge&logo=shield&logoColor=white)](https://github.com/chetanngavali)
+[![Connection](https://img.shields.io/badge/CONNECTION-ENCRYPTED-7aa2f7?style=for-the-badge&logo=gnutls&logoColor=white)](https://github.com/chetanngavali)
+[![Access](https://img.shields.io/badge/ACCESS-GRANTED-00d9ff?style=for-the-badge&logo=keys&logoColor=white)](https://github.com/chetanngavali)
 
 <br/><br/>
 
@@ -59,9 +50,9 @@
 
 ---
 
-## 🛠️ System Capabilities
-
 <div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2000&pause=1000&color=7aa2f7&center=true&vCenter=true&width=600&lines=%E2%9E%9C+cat+capabilities.json" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=800&color=7aa2f7&center=true&vCenter=true&width=600&lines=System+Diagnostics:+OK;Digital+Arsenal+Initialized;Cybersecurity+%2B+Full-Stack+%2B+IoT" />
 
@@ -72,12 +63,10 @@
 ### 🛡️ Offensive Security
 [![Kali](https://img.shields.io/badge/Kali-557C94?style=flat-square&logo=kali-linux&logoColor=white)](https://github.com/chetanngavali)
 [![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)](https://github.com/chetanngavali)
-[![THM](https://img.shields.io/badge/TryHackMe-212C42?style=flat-square&logo=tryhackme&logoColor=white)](https://github.com/chetanngavali)
 
 **Expertise**
 *Evil Twin • Wi-Fi MITM*
 *Hash Cracking • XSS*
-*Pentesting • Dorking*
 
 </td>
 <td width="34%" align="center" valign="top">
@@ -85,12 +74,10 @@
 ### 💻 Full-Stack Dev
 [![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)](https://github.com/chetanngavali)
 [![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)](https://github.com/chetanngavali)
-[![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)](https://github.com/chetanngavali)
 
 **Tech Stack**
 *MERN • Next.js • TS*
 *PostgreSQL • Supabase*
-*GitHub Actions • Git*
 
 </td>
 <td width="33%" align="center" valign="top">
@@ -98,12 +85,10 @@
 ### 🤖 IoT & Hardware
 [![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white)](https://github.com/chetanngavali)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://github.com/chetanngavali)
-[![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)](https://github.com/chetanngavali)
 
 **Research**
 *ESP8266 Attacks*
 *NRF RF Security*
-*Embedded C • OpenCV*
 
 </td>
 </tr>
@@ -115,9 +100,9 @@
 
 ---
 
-## 🚀 Featured Projects
-
 <div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2000&pause=1000&color=00d9ff&center=true&vCenter=true&width=600&lines=%E2%9E%9C+ls+--projects" />
 
 <table width="100%">
 <tr>
@@ -153,13 +138,11 @@
 
 </div>
 
-</div>
-
 ---
 
-## 🥈 Achievement Record
-
 <div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2000&pause=1000&color=FFD700&center=true&vCenter=true&width=600&lines=%E2%9E%9C+cat+awards.log" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=700&color=FFD700&center=true&vCenter=true&width=700&lines=%F0%9F%A5%87+Mind+Spark+2024+%E2%80%94+1st+Place+Winner+%F0%9F%8F%86;%F0%9F%8F%86+Hack4Innovation+2026+%E2%80%94+Finalist;%F0%9F%8F%86+PCU+Ideathon+3.0+%E2%80%94+Finalist;%F0%9F%8C+Vibe+Hacks+%E2%80%94+Top+1%2C000+Globally;%F0%9F%9A%A9+CREST+CTF+%40+IIT+Madras+Shaastra;%F0%9F%92%A1+Tech+Forge+2025" />
 
