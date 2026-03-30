@@ -1,0 +1,420 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Chetan Gavali | Terminal Dashboard</title>
+    <link href="https://fonts.googleapis.com/css2?family=Fira+Code:wght@300;400;500&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --bg-color: #1a1b26;
+            --terminal-bg: #16161e;
+            --terminal-header: #1f2335;
+            --text-color: #c0caf5;
+            --accent-primary: #7aa2f7;
+            --accent-secondary: #bb9af7;
+            --accent-success: #9ece6a;
+            --accent-error: #f7768e;
+            --accent-warning: #e0af68;
+            --accent-muted: rgba(255, 255, 255, 0.4);
+        }
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            background-color: var(--bg-color);
+            color: var(--text-color);
+            font-family: 'Fira Code', monospace;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+            padding: 40px 20px;
+        }
+
+        #canvas {
+            position: fixed;
+            top: 0;
+            left: 0;
+            z-index: -1;
+            opacity: 0.15;
+        }
+
+        .terminal {
+            width: 1000px;
+            max-width: 100%;
+            background-color: var(--terminal-bg);
+            border-radius: 12px;
+            box-shadow: 0 30px 60px rgba(0, 0, 0, 0.8);
+            overflow: hidden;
+            border: 1px solid rgba(255, 255, 255, 0.05);
+            animation: fadeIn 0.8s ease-out;
+        }
+
+        @keyframes fadeIn {
+            from { opacity: 0; transform: translateY(30px); }
+            to { opacity: 1; transform: translateY(0); }
+        }
+
+        .terminal-header {
+            background-color: var(--terminal-header);
+            padding: 14px 24px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            border-bottom: 1px solid rgba(255, 255, 255, 0.05);
+        }
+
+        .dots {
+            display: flex;
+            gap: 10px;
+        }
+
+        .dot {
+            width: 14px;
+            height: 14px;
+            border-radius: 50%;
+        }
+
+        .dot-red { background-color: var(--accent-error); }
+        .dot-yellow { background-color: var(--accent-warning); }
+        .dot-green { background-color: var(--accent-success); }
+
+        .terminal-content {
+            padding: 40px;
+            font-size: 1rem;
+            line-height: 1.7;
+            max-height: 85vh;
+            overflow-y: auto;
+            scrollbar-width: thin;
+            scrollbar-color: var(--accent-primary) var(--terminal-bg);
+        }
+
+        .terminal-content::-webkit-scrollbar { width: 8px; }
+        .terminal-content::-webkit-scrollbar-track { background: var(--terminal-bg); }
+        .terminal-content::-webkit-scrollbar-thumb { background: var(--accent-primary); border-radius: 10px; }
+
+        .line {
+            margin-bottom: 15px;
+            display: flex;
+            align-items: flex-start;
+        }
+
+        .prompt {
+            color: var(--accent-success);
+            margin-right: 15px;
+            font-weight: bold;
+        }
+
+        .command {
+            color: var(--accent-primary);
+            font-weight: 500;
+        }
+
+        .output {
+            margin-left: 30px;
+            margin-bottom: 40px;
+            color: var(--text-color);
+        }
+
+        .glitch {
+            color: var(--accent-secondary);
+            font-weight: bold;
+            font-size: 2.5rem;
+            margin-bottom: 10px;
+            letter-spacing: -1px;
+        }
+
+        .subtitle {
+            font-size: 1.1rem;
+            color: var(--accent-muted);
+            margin-bottom: 20px;
+        }
+
+        .badge {
+            display: inline-block;
+            background: rgba(122, 162, 247, 0.1);
+            color: var(--accent-primary);
+            padding: 5px 14px;
+            border-radius: 20px;
+            border: 1px solid var(--accent-primary);
+            font-size: 0.85rem;
+            margin-right: 10px;
+            margin-bottom: 10px;
+            transition: all 0.3s ease;
+        }
+
+        .badge:hover {
+            background: var(--accent-primary);
+            color: #16161e;
+            transform: translateY(-2px);
+            box-shadow: 0 4px 15px rgba(122, 162, 247, 0.4);
+        }
+
+        .card {
+            background: rgba(255, 255, 255, 0.03);
+            border: 1px solid rgba(255, 255, 255, 0.05);
+            border-radius: 8px;
+            padding: 20px;
+            margin-bottom: 15px;
+            transition: all 0.3s ease;
+        }
+
+        .card:hover {
+            border-color: var(--accent-secondary);
+            background: rgba(255, 255, 255, 0.05);
+        }
+
+        .card-title {
+            color: var(--accent-secondary);
+            font-weight: bold;
+            font-size: 1.1rem;
+            margin-bottom: 8px;
+        }
+
+        .card-desc {
+            font-size: 0.95rem;
+            color: var(--accent-muted);
+        }
+
+        .status-msg {
+            padding: 15px;
+            border-radius: 6px;
+            font-weight: 500;
+            display: flex;
+            align-items: center;
+            gap: 12px;
+        }
+
+        .status-success {
+            background: rgba(158, 206, 106, 0.1);
+            color: var(--accent-success);
+            border: 1px solid var(--accent-success);
+        }
+
+        .status-warning {
+            background: rgba(224, 175, 104, 0.1);
+            color: var(--accent-warning);
+            border: 1px solid var(--accent-warning);
+        }
+
+        a {
+            color: var(--accent-primary);
+            text-decoration: none;
+            border-bottom: 1px solid transparent;
+            transition: all 0.2s ease;
+        }
+
+        a:hover {
+            border-bottom-color: var(--accent-primary);
+            opacity: 0.8;
+        }
+
+        .grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+            gap: 15px;
+        }
+
+        .typing {
+            border-right: 2px solid var(--accent-primary);
+            animation: blink 0.8s step-end infinite;
+        }
+
+        @keyframes blink { 50% { border-color: transparent; } }
+
+        @media (max-width: 768px) {
+            .glitch { font-size: 1.8rem; }
+            .terminal-content { padding: 25px; }
+            .grid { grid-template-columns: 1fr; }
+        }
+    </style>
+</head>
+<body>
+    <canvas id="canvas"></canvas>
+    <div class="terminal">
+        <div class="terminal-header">
+            <div class="dots">
+                <div class="dot dot-red"></div>
+                <div class="dot dot-yellow"></div>
+                <div class="dot dot-green"></div>
+            </div>
+            <div style="color: var(--accent-muted); font-size: 0.85rem;">root@chetan:~</div>
+            <div style="width: 50px;"></div>
+        </div>
+        <div class="terminal-content">
+            
+            <!-- WHOAMI -->
+            <div class="line">
+                <span class="prompt">➜</span>
+                <span class="command">whoami</span>
+            </div>
+            <div class="output">
+                <div class="glitch">Chetan Gavali</div>
+                <div class="subtitle">Ethical Hacker | Cybersecurity Researcher | Full-Stack Developer</div>
+                <p>Specializing in uncover deep vulnerabilities in IoT and wireless protocols. Building secure, impactful tech with precision and curiosity.</p>
+            </div>
+
+            <!-- CAPABILITIES -->
+            <div class="line">
+                <span class="prompt">➜</span>
+                <span class="command">ls capabilities/</span>
+            </div>
+            <div class="output">
+                <div class="line"><span class="prompt" style="color:var(--accent-secondary)"># offensive_security</span></div>
+                <span class="badge">Wi-Fi Security</span>
+                <span class="badge">Pentesting</span>
+                <span class="badge">Evil Twin Attacks</span>
+                <span class="badge">XSS / IDOR</span>
+                <br/>
+                <div class="line" style="margin-top:10px"><span class="prompt" style="color:var(--accent-primary)"># full_stack_dev</span></div>
+                <span class="badge">React / Next.js</span>
+                <span class="badge">TypeScript</span>
+                <span class="badge">Node.js</span>
+                <span class="badge">PostgreSQL</span>
+                <br/>
+                <div class="line" style="margin-top:10px"><span class="prompt" style="color:var(--accent-warning)"># iot_hardware</span></div>
+                <span class="badge">ESP8266 Attacks</span>
+                <span class="badge">Arduino</span>
+                <span class="badge">NRF RF Security</span>
+                <span class="badge">Embedded C</span>
+            </div>
+
+            <!-- PROJECTS -->
+            <div class="line">
+                <span class="prompt">➜</span>
+                <span class="command">ls projects/</span>
+            </div>
+            <div class="output grid">
+                <div class="card">
+                    <div class="card-title">EVIL_TWINS_ESP8266</div>
+                    <div class="card-desc">Wi-Fi MITM & Rogue Access Point framework for security research.</div>
+                    <div style="margin-top:10px"><a href="https://github.com/chetanngavali/ESP8266-Evil-Twin-Project" target="_blank">[ View Source ]</a></div>
+                </div>
+                <div class="card">
+                    <div class="card-title">secure_stego</div>
+                    <div class="card-desc">AEAD-encrypted image steganography tool using AES-256-GCM.</div>
+                    <div style="margin-top:10px"><a href="https://github.com/chetanngavali/secure_stego" target="_blank">[ View Source ]</a></div>
+                </div>
+            </div>
+
+            <!-- AWARDS -->
+            <div class="line">
+                <span class="prompt">➜</span>
+                <span class="command">cat awards.log</span>
+            </div>
+            <div class="output">
+                <div class="line"><span class="prompt" style="margin-right:8px">🏆</span> <b>Mind Spark 2024</b> — 1st Place Winner (Team Pseudo Coders)</div>
+                <div class="line"><span class="prompt" style="margin-right:8px">🏆</span> <b>Hack4Innovation 2026</b> — Finalist (AI Navigation)</div>
+                <div class="line"><span class="prompt" style="margin-right:8px">🏆</span> <b>PCU Ideathon 3.0</b> — Finalist (Team Code Yoddhas)</div>
+                <div class="line"><span class="prompt" style="margin-right:8px">🌍</span> <b>Vibe Hacks International</b> — Top 1,000 Globally</div>
+            </div>
+
+            <!-- GITHUB STATS -->
+            <div class="line">
+                <span class="prompt">➜</span>
+                <span class="command">whoami --stats</span>
+            </div>
+            <div class="output">
+                <img src="https://github-readme-stats.vercel.app/api?username=chetanngavali&show_icons=true&theme=tokyonight&hide_border=true&bg_color=16161e" alt="Stats" style="max-width:100%" />
+                <br/>
+                <img src="https://github-readme-streak-stats.herokuapp.com/?user=chetanngavali&theme=tokyonight&hide_border=true&background=16161e" alt="Streak" style="max-width:100%" />
+            </div>
+
+            <!-- CERTIFICATIONS -->
+            <div class="line">
+                <span class="prompt">➜</span>
+                <span class="command">cat certs.txt</span>
+            </div>
+            <div class="output">
+                <div class="line"><b>[✔] ISO/IEC 27001:2022 Internal Auditor</b></div>
+                <div class="line"><b>[✔] Cybersecurity Fundamentals (Virtual Experience)</b> — Goldman Sachs</div>
+                <div class="line"><b>[✔] Software Engineering (Virtual Experience)</b> — J.P. Morgan</div>
+            </div>
+
+            <!-- EXPERIENCE -->
+            <div class="line">
+                <span class="prompt">➜</span>
+                <span class="command">history --exp</span>
+            </div>
+            <div class="output">
+                <div class="line" style="border-left: 2px solid var(--accent-muted); padding-left:15px; margin-bottom:20px">
+                    <span style="color:var(--accent-primary)">2024 — PRESENT</span><br/>
+                    <b>Bachelor of Computer Engineering</b><br/>
+                    <i>KBTCOE, Nashik</i>
+                </div>
+                <div class="line" style="border-left: 2px solid var(--accent-muted); padding-left:15px">
+                    <span style="color:var(--accent-primary)">2023 — 2024</span><br/>
+                    <b>Security Research (Independent)</b><br/>
+                    <i>Focus on Wireless Protocols & IoT Exploitation</i>
+                </div>
+            </div>
+
+            <!-- COMMUNITIES -->
+            <div class="line">
+                <span class="prompt">➜</span>
+                <span class="command">ls communities/</span>
+            </div>
+            <div class="output">
+                <span class="badge">TryHackMe</span>
+                <span class="badge">HackerRank</span>
+                <span class="badge">HackerOne</span>
+                <span class="badge">IEEE Computer Society</span>
+            </div>
+
+            <!-- CONTACT -->
+            <div class="line">
+                <span class="prompt">➜</span>
+                <span class="command"><span class="typing">cat contact.txt</span></span>
+            </div>
+            <div class="output">
+                <div class="status-msg status-success">
+                    <span>[!] Connection established. Ready to collaborate.</span>
+                </div>
+                <div style="margin-top:20px; display:flex; gap:20px; flex-wrap:wrap">
+                    <a href="https://www.linkedin.com/in/chetanngavali/" target="_blank">LinkedIn</a>
+                    <a href="https://github.com/chetanngavali" target="_blank">GitHub</a>
+                    <a href="mailto:chetangavali@protonmail.com">Email</a>
+                </div>
+            </div>
+
+        </div>
+    </div>
+
+    <script>
+        const canvas = document.getElementById('canvas');
+        const ctx = canvas.getContext('2d');
+        canvas.width = window.innerWidth;
+        canvas.height = window.innerHeight;
+        const alphabet = "01ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789$#@%";
+        const fontSize = 16;
+        const columns = canvas.width / fontSize;
+        const rainDrops = Array.from({ length: columns }).fill(1);
+
+        const draw = () => {
+            ctx.fillStyle = "rgba(26, 27, 36, 0.1)";
+            ctx.fillRect(0, 0, canvas.width, canvas.height);
+            ctx.fillStyle = "#7aa2f7"; 
+            ctx.font = fontSize + "px monospace";
+            for (let i = 0; i < rainDrops.length; i++) {
+                const text = alphabet.charAt(Math.floor(Math.random() * alphabet.length));
+                ctx.fillText(text, i * fontSize, rainDrops[i] * fontSize);
+                if (rainDrops[i] * fontSize > canvas.height && Math.random() > 0.975) {
+                    rainDrops[i] = 0;
+                }
+                rainDrops[i]++;
+            }
+        };
+        setInterval(draw, 35);
+
+        window.addEventListener('resize', () => {
+            canvas.width = window.innerWidth;
+            canvas.height = window.innerHeight;
+        });
+    </script>
+</body>
+</html>
