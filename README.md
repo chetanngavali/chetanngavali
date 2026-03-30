@@ -20,7 +20,6 @@
 ---
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00FF88&center=true&vCenter=true&width=600&lines=%24+whoami;Chetan+Gavali+%E2%80%94+Ethical+Hacker+%26+Builder;%24+cat+about.json" />
 </div>
 
 ```json
