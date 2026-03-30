@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2000&pause=1000&color=9ece6a&center=true&vCenter=true&width=800&lines=%E2%9E%9C+whoami" alt="Prompt" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2000&pause=1000&color=9ece6a&center=true&vCenter=true&width=800&lines=%E2%94%8C%E2%94%80%E2%94%80(root%E3%83%BBchetan)-%5B~%5D;%E2%94%94%E2%94%80%24+whoami" alt="Prompt" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=48&duration=3000&pause=1500&color=bb9af7&center=true&vCenter=true&width=900&lines=Chetan+Gavali" alt="Name" />
 
