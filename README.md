@@ -17,193 +17,266 @@
 
 </div>
 
----
+<br/>
 
-## 👨‍💻 About Me
+## `$ whoami`
 
 ```python
-class ChetanGavali:
-    name       = "Chetan Gavali"
-    location   = "Nashik, Maharashtra, India 📍"
-    education  = "B.E. Computer Science @ KK Wagh Institute (2023–2027)"
-    roles      = ["Ethical Hacker", "Full-Stack Developer", "IoT Security Researcher", "CTF Player"]
-
-    skills = {
-        "security"  : ["Penetration Testing", "Evil Twin Attacks", "Wi-Fi MITM", "CTF", "IDOR", "XSS"],
-        "frontend"  : ["React.js", "TypeScript", "Next.js", "Tailwind CSS"],
-        "backend"   : ["Node.js", "Express", "Java Servlets", "PHP"],
-        "mobile"    : ["Android (Kotlin)", "Supabase"],
-        "database"  : ["MongoDB", "PostgreSQL", "MySQL"],
-        "ai_ml"     : ["YOLOv8", "Gemini AI", "OCR (Hindi & English)"],
-        "iot"       : ["ESP8266", "ESP32", "C++"],
-        "tools"     : ["Kali Linux", "Burp Suite", "Wireshark", "Git"]
-    }
-
-    achievements = [
-        "🥇 Mind Spark 2024 — 1st Place Winner",
-        "🏆 Hack4Innovation 2026 — Finalist",
-        "🏆 PCU Ideathon 3.0 — Finalist",
-        "🏆 Vibe Hacks — Top 1000 Globally"
-    ]
-
-    currently   = ["Bug Bounty Hunting 🐛", "Learning Next.js 🌍", "Expanding DrishtiAi 🤖"]
-    motto       = "Security is not a product, but a process. — Bruce Schneier"
+{
+  "name"       : "Chetan Gavali",
+  "location"   : "Nashik, Maharashtra, India 📍",
+  "education"  : "B.E. Computer Science — KK Wagh Institute (2023–2027)",
+  "roles"      : ["Ethical Hacker", "Full-Stack Dev", "IoT Security Researcher", "CTF Player"],
+  "building"   : ["DrishtiAi 🤖", "SmartVote 🗳️", "SUVIDHA-2026 🖥️"],
+  "learning"   : ["Next.js", "Bug Bounty", "Advanced Pen Testing"],
+  "ask_me_about": ["React", "ESP8266 Hacks", "CTF Writeups", "MERN Stack"],
+  "fun_fact"   : "I break Wi-Fi networks legally 📡"
+}
 ```
 
----
+<br/>
 
-## 🛡️ Cybersecurity Arsenal
+## `$ cat skills.json`
 
 <div align="center">
 
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
-![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header" width="100%"/>
+
+### 🛡️&nbsp; Cybersecurity
+
+[![My Skills](https://skillicons.dev/icons?i=linux,kali,bash,py&perline=4)](https://skillicons.dev)
+
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kali-linux&logoColor=white)
+![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=flat-square&logo=tryhackme&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white)
+
+`Penetration Testing` `Evil Twin Attacks` `Wi-Fi MITM` `XSS` `IDOR` `Hash Cracking` `CTF` `ISO27001`
+
+<br/>
+
+### 💻&nbsp; Development
+
+[![My Skills](https://skillicons.dev/icons?i=ts,js,py,java,kotlin,cpp,react,nextjs,tailwind,nodejs,express,mongodb,postgres,mysql,supabase,androidstudio,git,vscode&perline=9)](https://skillicons.dev)
+
+<br/>
+
+### 🤖&nbsp; AI / IoT
+
+[![My Skills](https://skillicons.dev/icons?i=tensorflow,opencv,firebase,arduino&perline=4)](https://skillicons.dev)
+
+`YOLOv8` `Gemini AI API` `OCR (Latin & Devanagari)` `ESP8266` `ESP32` `Rogue AP`
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header" width="100%"/>
 
 </div>
 
-- 🎯 **Penetration Testing** — Web, Wi-Fi & IoT attack vectors
-- 📡 **IoT Security** — Hardware Evil Twin attacks (ESP8266/ESP32)
-- 🔑 **Cryptography** — MD5, SHA-1/256, bcrypt, Hash Cracking & Identification
-- 🌐 **Web Vulnerabilities** — XSS, IDOR, SQL Injection, Google Dorking
-- 🏁 **CTF Competitions** — CREST CTF @ IIT Madras Shaastra 2026
-- 📋 **Risk Management** — ISO/IEC 27001:2022 Certified Associate
+<br/>
 
----
-
-## 💻 Tech Stack
+## `$ ls projects/`
 
 <div align="center">
 
-**⚡ Languages**
+<table>
+<tr>
+<td width="50%">
 
-[![My Skills](https://skillicons.dev/icons?i=ts,js,python,java,kotlin,cpp,php,c&perline=8)](https://skillicons.dev)
+### 🤖 DrishtiAi
+> AI navigation for the **visually impaired** using just a smartphone
 
-**🎨 Frontend**
+`YOLOv8` `Gemini AI` `OCR` `Android` `GPS` `TTS`
 
-[![My Skills](https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,materialui&perline=6)](https://skillicons.dev)
+- 🎯 Real-time obstacle & hazard detection
+- 🔊 Hands-free voice navigation
+- 📖 Sign board text reader (Hindi + English)
+- 🆘 Emergency SOS with GPS & SMS
 
-**⚙️ Backend & Databases**
+🏆 **Hack4Innovation 2026 Finalist**
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,mysql,supabase&perline=6)](https://skillicons.dev)
+[![View](https://img.shields.io/badge/View_Project-00d9ff?style=for-the-badge&logo=github&logoColor=black)](https://github.com/chetanngavali/DrishtiAi)
 
-**📱 Mobile & Tools**
+</td>
+<td width="50%">
 
-[![My Skills](https://skillicons.dev/icons?i=androidstudio,kotlin,git,github,vscode,linux&perline=6)](https://skillicons.dev)
+### 🗳️ SmartVote
+> Government-grade **secure digital voting** portal
+
+`Java` `MySQL` `Servlets` `CAPTCHA` `Session Mgmt`
+
+- ✅ Voter registration & verification
+- 🔐 Secure ballot with session protection
+- 📊 Real-time result analytics
+- 🛡️ SQL hardening & CAPTCHA validation
+
+🔐 **Production-Security Focused**
+
+[![View](https://img.shields.io/badge/View_Project-00d9ff?style=for-the-badge&logo=github&logoColor=black)](https://github.com/chetanngavali/SmartVote)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 📡 EVIL_TWINS_ESP8266
+> Wi-Fi **Evil Twin attack** hardware research tool
+
+`C++` `ESP8266` `Rogue AP` `OLED` `Web UI`
+
+- 📶 Fake Wi-Fi AP with credential capture
+- 🌐 Real-time control web interface
+- 📟 OLED live status display
+- 🔬 MITM attack research & education
+
+🧪 **IoT Cybersecurity Research**
+
+[![View](https://img.shields.io/badge/View_Project-00d9ff?style=for-the-badge&logo=github&logoColor=black)](https://github.com/chetanngavali/ESP8266-Evil-Twin-Project)
+
+</td>
+<td width="50%">
+
+### 🖥️ SUVIDHA-2026
+> Multilingual **government kiosk UI** for hackathon
+
+`TypeScript` `React` `PostgreSQL` `Drizzle ORM`
+
+- 🌐 English · Hindi · Marathi support
+- 🎨 Premium accessibility-first UX
+- ⚡ Real-time DB sync
+- 🏛️ Built for public service environments
+
+🏆 **Hackathon Finalist Project**
+
+[![View](https://img.shields.io/badge/View_Project-00d9ff?style=for-the-badge&logo=github&logoColor=black)](https://github.com/chetanngavali/SUVIDHA-2026-Hackathon)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🧩 LifeHub
+> **All-in-one** life management dashboard
+
+`React` `TypeScript` `Tailwind CSS`
+
+- 🍲 Food inventory tracker
+- ✈️ Trip planner
+- 👶 Baby milestone logger
+- 📅 11+ integrated life services
+
+🧠 **Complex State Management at Scale**
+
+[![View](https://img.shields.io/badge/View_Project-00d9ff?style=for-the-badge&logo=github&logoColor=black)](https://github.com/chetanngavali/LifeHub)
+
+</td>
+<td width="50%">
+
+### 🌊 AquaVera
+> Professional **Android app** with real-time cloud sync
+
+`Kotlin` `Supabase` `Android Studio`
+
+- ☁️ Real-time Supabase database sync
+- 📱 Polished native Android UI
+- 🎨 Professional branding
+- 🔄 Live data updates
+
+📱 **Native Android + Cloud**
+
+[![View](https://img.shields.io/badge/View_Project-00d9ff?style=for-the-badge&logo=github&logoColor=black)](https://github.com/chetanngavali/AquaVera)
+
+</td>
+</tr>
+</table>
 
 </div>
 
----
+<br/>
 
-## 🚀 Featured Projects
+## `$ cat achievements.log`
 
 <div align="center">
 
-| 🤖 **DrishtiAi** | 🗳️ **SmartVote** |
-|:---|:---|
-| AI app for visually impaired — camera-based navigation | Secure government-grade digital voting portal |
-| `YOLOv8` `Gemini AI` `OCR` `Android` | `Java` `MySQL` `Session Security` `CAPTCHA` |
-| 🏆 Hack4Innovation 2026 Finalist | 🔐 Security-Hardened Backend |
-| [**View Project →**](https://github.com/chetanngavali/DrishtiAi) | [**View Project →**](https://github.com/chetanngavali/SmartVote) |
-
-| 📡 **EVIL_TWINS_ESP8266** | 🖥️ **SUVIDHA-2026** |
-|:---|:---|
-| Wi-Fi Evil Twin hardware security research tool | Multilingual Govt. Kiosk UI for hackathon |
-| `C++` `ESP8266` `Rogue AP` `OLED` | `TypeScript` `React` `PostgreSQL` `Drizzle ORM` |
-| 📡 MITM Attack Simulation | 🌐 English · Hindi · Marathi |
-| [**View Project →**](https://github.com/chetanngavali/ESP8266-Evil-Twin-Project) | [**View Project →**](https://github.com/chetanngavali/SUVIDHA-2026-Hackathon) |
-
-| 🧩 **LifeHub** | 🌊 **AquaVera** |
-|:---|:---|
-| All-in-One Life Management (11+ Services) | Professional Android app with cloud sync |
-| `React` `TypeScript` `Tailwind CSS` | `Kotlin` `Supabase` `Android` |
-| 📅 Tasks · Food · Travel · More | ☁️ Real-time Cloud Database Sync |
-| [**View Project →**](https://github.com/chetanngavali/LifeHub) | [**View Project →**](https://github.com/chetanngavali/AquaVera) |
+```
+╔══════════════════════════════════════════════════════════════════════╗
+║                     🏆  HACKATHON RECORD                            ║
+╠══════════════════════════════════════════════════════════════════════╣
+║  🥇  Mind Spark 2024 @ KBTCOE  ──────────  1st Place  (24hr hack)  ║
+║  🏆  Hack4Innovation 2026  ────────────────  Finalist  (AI App)     ║
+║  🏆  PCU Ideathon 3.0 2K26  ──────────────  Finalist  (Android)    ║
+║  🌍  Vibe Hacks International  ────────  Top 1,000 Globally         ║
+║  🚩  CREST CTF @ IIT Madras Shaastra 2026  ──  CTF Participant      ║
+║  💡  Tech Forge 2025  ─────────────────────────  Cybersecurity      ║
+╚══════════════════════════════════════════════════════════════════════╝
+```
 
 </div>
 
----
+<br/>
 
-## 🏆 Hackathons & Competitions
+## `$ cat certifications.txt`
 
 <div align="center">
 
-| 🏅 | Event | Result | Role |
-|:---:|:---|:---:|:---|
-| 🥇 | **Mind Spark 2024 @ KBTCOE** | **1st Place Winner** | Full-Stack Dev · Team *Pseudo Coders* |
-| 🏆 | **Hack4Innovation 2026** | **Finalist** | App Developer · AI Navigation App |
-| 🏆 | **PCU's Ideathon 3.0 2K26** | **Finalist** | Android Developer · Team *Code Yoddhas* |
-| 🌍 | **Vibe Hacks (International)** | **Top 1,000 Globally** | Backend & Cybersecurity |
-| 🚩 | **CREST CTF @ IIT Madras Shaastra** | Participant | Cryptography & Hacking |
-| 💡 | **Tech Forge 2025** | Participant | Cybersecurity Research |
+| &nbsp; | Certification | Organization |
+|:---:|:---|:---|
+| 🟢 | Frontend Developer — React | **HackerRank** |
+| 🟢 | Hash Cracker | **TryHackMe** |
+| 🟢 | Kali Linux for Ethical Hackers | **Udemy** |
+| 🟢 | Ethical Hacking: Beginner to Pro | **Udemy** |
+| 🟢 | ISO/IEC 27001:2022 Info Security Associate™ | **SkillFront** |
+| 🟢 | Cyber Security | **Skill India Digital Hub** |
+| 🟢 | Technology Job Simulation | **Deloitte Australia · Forage** |
+| 🟢 | Bug Bounty Methodology Training | **Knight Secured** |
+| 🟢 | Certified C++ Practitioner — Score: **94%** | **Red Team Leaders** |
 
 </div>
 
----
+<br/>
 
-## 📜 Certifications
+## `$ neofetch --stats`
 
 <div align="center">
 
-| 🎖️ | Certification | Issuer | Year |
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=chetanngavali&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chetanngavali&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9" />
+
+<br/><br/>
+
+<img width="65%" src="https://streak-stats.demolab.com?user=chetanngavali&theme=tokyonight&hide_border=true&background=0d1117&ring=00d9ff&fire=ff6b35&currStreakLabel=00d9ff&sideLabels=00d9ff" />
+
+</div>
+
+<br/>
+
+## `$ history | grep experience`
+
+<div align="center">
+
+| # | Role | Organization | Period |
 |:---:|:---|:---|:---:|
-| ✅ | Frontend Developer (React) | HackerRank | 2025 |
-| ✅ | Hash Cracker | TryHackMe | 2025 |
-| ✅ | Kali Linux for Ethical Hackers | Udemy | 2025 |
-| ✅ | Ethical Hacking: Beginner to Pro | Udemy | 2025 |
-| ✅ | ISO/IEC 27001:2022 Information Security Associate™ | SkillFront | 2025 |
-| ✅ | Cyber Security | Skill India Digital Hub | 2025 |
-| ✅ | Technology Job Simulation | Deloitte Australia · Forage | 2025 |
-| ✅ | Bug Bounty Methodology Training | Knight Secured | 2026 |
-| ✅ | Certified C++ Practitioner (Score: 94%) | Red Team Leaders | 2025 |
+| 01 | 🔐 Cybersecurity Team Member | **INCYBIC** | Jan 2026 – Present |
+| 02 | ⚔️ District Cyber Warrior Captain | **Cyber Hunter Warrior** | May 2025 – Feb 2026 |
+| 03 | 📱 Social Media Manager | **TechnoHacks EduTech** | Feb 2024 – Present |
 
 </div>
 
----
+<br/>
 
-## 📊 GitHub Stats
+## `$ echo $COMMUNITY`
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=chetanngavali&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chetanngavali&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff" />
+![INCYBIC](https://img.shields.io/badge/INCYBIC-Cybersecurity_Team-00d9ff?style=flat-square&logo=shield&logoColor=white)
+![CTF](https://img.shields.io/badge/CTF_Player-Active_Competitor-red?style=flat-square&logo=hackthebox&logoColor=white)
+![LinkedIn](https://img.shields.io/badge/Digital_Hygiene-Advocate-0077B5?style=flat-square&logo=linkedin&logoColor=white)
+![Volleyball](https://img.shields.io/badge/Volleyball-State_Level_Player-orange?style=flat-square&logoColor=white)
 
 </div>
 
-<div align="center">
+<br/>
 
-<img width="70%" src="https://streak-stats.demolab.com?user=chetanngavali&theme=tokyonight&hide_border=true&background=0d1117&ring=00d9ff&fire=ff6b35&currStreakLabel=00d9ff" />
-
-</div>
-
----
-
-## 💼 Experience
-
-| 🔐 Role | 🏢 Organization | 📅 Duration |
-|:---|:---|:---|
-| Cybersecurity Team Member | INCYBIC | Jan 2026 – Present |
-| District Cyber Warrior Captain | Cyber Hunter Warrior | May 2025 – Feb 2026 |
-| Social Media Manager | TechnoHacks EduTech | Feb 2024 – Present |
-
----
-
-## 🌐 Community & Beyond
-
-<div align="center">
-
-| 🛡️ INCYBIC Member | 🏁 CTF Player | 📢 Digital Hygiene Advocate | 🏐 State Volleyball |
-|:---:|:---:|:---:|:---:|
-| Cyber Defense & Security Research | Regular CTF Competitor | LinkedIn Security Awareness Posts | State-Level Athlete |
-
-</div>
-
----
-
-## 📫 Let's Connect!
+## `$ open --browser connect.html`
 
 <div align="center">
 
