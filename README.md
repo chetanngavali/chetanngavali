@@ -25,7 +25,11 @@
 
 <br/><br/>
 
-<img src="https://raw.githubusercontent.com/chetanngavali/chetanngavali/main/terminal_header.svg" width="800" />
+<div align="center">
+<img src="./terminal_header.svg" width="800" />
+</div>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=1500&color=00D9FF&center=true&vCenter=true&width=800&lines=whoami;Chetan+Gavali+%E2%80%94+Ethical+Hacker+%26+Full-Stack+Developer;cat+about.json" alt="Typing SVG" />
 
 ```json
 {
