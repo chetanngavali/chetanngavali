@@ -17,16 +17,21 @@
 
 </div>
 
----
-
 <div align="center">
-</div>
+
+<a href="https://chetanngavali.github.io/test_profile.html">
+  <img src="https://img.shields.io/badge/Launch_Interactive_Terminal-0d1117?style=for-the-badge&logo=gnumetadata&logoColor=00d9ff" alt="Launch Dashboard" />
+</a>
+
+<br/><br/>
+
+<img src="https://raw.githubusercontent.com/chetanngavali/chetanngavali/main/terminal_header.svg" width="800" />
 
 ```json
 {
   "name": "Chetan Gavali",
   "location": "📍 Nashik, Maharashtra, India",
-  "education": "🎓 B.E. CS (2023–2027)",
+  "education": "🎓 B.E. CS (2024–2028)",
   "roles": [
     "🔐 Ethical Hacker",
     "💻 Full-Stack Dev",
@@ -34,27 +39,19 @@
     "🚩 CTF Player"
   ],
   "learning": [
-    "Next.js",
-    "Bug Bounty",
-    "System Security",
-    "Cybersecurity",
-    "IoT Security",
-    "Web Security",
-    "Mobile Security",
-    "Network Security",
-    "Application Security"
+    "Next.js", "Bug Bounty", "System Security", 
+    "Cybersecurity", "IoT Security", "Web Security", 
+    "Mobile Security", "Network Security", "Application Security"
   ],
   "ask_me": [
-    "Cyber Security",
-    "ESP8266 Attacks",
-    "CTF Writeups",
-    "MERN Stack",
-    "IoT Security",
-    "Web Security"
+    "Cyber Security", "ESP8266 Attacks", "CTF Writeups", 
+    "MERN Stack", "IoT Security", "Web Security"
   ],
   "fun_fact": "Building with precision, securing with curiosity—specializing in uncovering deep vulnerabilities within IoT and wireless protocols."
 }
 ```
+
+</div>
 
 ---
 
