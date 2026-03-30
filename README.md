@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHpiazR6amIxdGZ0ZzV4ZzV4ZzV4ZzV4ZzV4ZzV4ZzV4ZzV4ZzV4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZNo/3o7TKVUn7iM8FMEU24/giphy.gif" width="900" height="250" /><br/><a href="https://chetanngavali.github.io/test_profile.html"><img src="https://img.shields.io/badge/Launch_Interactive_Terminal-0d1117?style=for-the-badge&logo=gnumetadata&logoColor=00d9ff" alt="Dashboard" /></a><br/><img src="./terminal_header.svg" width="900" />
+<img src="./terminal_header.svg" width="900" />
 
 <div align="center">
 
