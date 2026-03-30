@@ -59,8 +59,6 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=800&color=00D9FF&center=true&vCenter=true&width=500&lines=Languages+%F0%9F%92%AC;Frameworks+%26+Libraries+%F0%9F%8E%A8;Databases+%26+Cloud+%E2%9D%84%EF%B8%8F;IoT+%26+AI+%F0%9F%A4%96" />
-
 <br/>
 
 **⚡ Languages**
@@ -91,47 +89,6 @@
 <tr>
 
 <td width="50%" valign="top">
-<h3 align="center">🤖 DrishtiAi</h3>
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&pause=900&color=00FF88&center=true&vCenter=true&width=280&lines=AI+Vision+for+Visually+Impaired;YOLOv8+%2B+Gemini+AI+%2B+OCR;Hack4Innovation+2026+Finalist+%F0%9F%8F%86" />
-
-</div>
-
-`YOLOv8` `Gemini AI` `OCR` `Android` `GPS` `TTS`
-
-- 🎯 Real-time obstacle detection
-- 🔊 Hands-free voice navigation
-- 📖 Hindi + English sign reading
-- 🆘 Emergency SOS with GPS
-
-[![View](https://img.shields.io/badge/View_Project-%23121011.svg?style=for-the-badge&logo=github&logoColor=00d9ff)](https://github.com/chetanngavali/DrishtiAi)
-
-</td>
-
-<td width="50%" valign="top">
-<h3 align="center">🗳️ SmartVote</h3>
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&pause=900&color=00FF88&center=true&vCenter=true&width=280&lines=Secure+Digital+Voting+Portal;Java+%2B+MySQL+%2B+CAPTCHA;Production-Grade+Security" />
-
-</div>
-
-`Java` `MySQL` `Servlets` `CAPTCHA` `Sessions`
-
-- ✅ Voter registration & auth
-- 🔐 Secure ballot + session mgmt
-- 📊 Real-time result analytics
-- 🛡️ SQL hardening + CAPTCHA
-
-[![View](https://img.shields.io/badge/View_Project-%23121011.svg?style=for-the-badge&logo=github&logoColor=00d9ff)](https://github.com/chetanngavali/SmartVote)
-
-</td>
-
-</tr>
-<tr>
-
-<td width="50%" valign="top">
 <h3 align="center">📡 EVIL_TWINS_ESP8266</h3>
 <div align="center">
 
@@ -151,21 +108,21 @@
 </td>
 
 <td width="50%" valign="top">
-<h3 align="center">🖥️ SUVIDHA-2026</h3>
+<h3 align="center">📻 NRFBox-by-RootQubit</h3>
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&pause=900&color=00FF88&center=true&vCenter=true&width=280&lines=Multilingual+Govt+Kiosk+UI;TypeScript+%2B+React+%2B+PostgreSQL;Hackathon+Finalist+%F0%9F%8F%86" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&pause=900&color=FF4444&center=true&vCenter=true&width=280&lines=NRF+Wireless+Hacking+Box;C+%2B+Embedded+Systems;RF+Security+Research" />
 
 </div>
 
-`TypeScript` `React` `PostgreSQL` `Drizzle ORM`
+`C` `NRF24L01` `Wireless` `Embedded`
 
-- 🌐 English · Hindi · Marathi
-- 🎨 Premium accessibility UX
-- ⚡ Real-time DB sync
-- 🏛️ Public service kiosk
+- 🛜 Sub-GHz & RF signal research
+- 📦 Portable hacking box setup
+- 🔬 Hardware security testing
+- 📡 Custom payload delivery
 
-[![View](https://img.shields.io/badge/View_Project-%23121011.svg?style=for-the-badge&logo=github&logoColor=00d9ff)](https://github.com/chetanngavali/SUVIDHA-2026-Hackathon)
+[![View](https://img.shields.io/badge/View_Project-%23121011.svg?style=for-the-badge&logo=github&logoColor=FF4444)](https://github.com/chetanngavali/NRFBox-by-RootQubit)
 
 </td>
 
@@ -173,41 +130,26 @@
 <tr>
 
 <td width="50%" valign="top">
-<h3 align="center">🧩 LifeHub</h3>
+<h3 align="center">🔐 secure_stego</h3>
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&pause=900&color=00FF88&center=true&vCenter=true&width=280&lines=All-in-One+Life+Dashboard;React+%2B+TypeScript+%2B+Tailwind;11%2B+Integrated+Services" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&pause=900&color=00d9ff&center=true&vCenter=true&width=280&lines=Secure+Steganography+Tool;Python+%2B+AEAD+Encryption;Hidden+Image+Data" />
 
 </div>
 
-`React` `TypeScript` `Tailwind CSS`
+`Python` `Cryptography` `AEAD` `Pillow`
 
-- 🍲 Food inventory tracker
-- ✈️ Trip planner module
-- 👶 Baby milestone logger
-- 📅 11+ life management tools
+- 🔒 Encrypts text with AES-256-GCM
+- 🖼️ Embeds payload inside images
+- 🎲 Cryptographically random ordering
+- 🛡️ Advanced payload extraction
 
-[![View](https://img.shields.io/badge/View_Project-%23121011.svg?style=for-the-badge&logo=github&logoColor=00d9ff)](https://github.com/chetanngavali/LifeHub)
+[![View](https://img.shields.io/badge/View_Project-%23121011.svg?style=for-the-badge&logo=github&logoColor=00d9ff)](https://github.com/chetanngavali/secure_stego)
 
 </td>
 
 <td width="50%" valign="top">
-<h3 align="center">🌊 AquaVera</h3>
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&pause=900&color=00FF88&center=true&vCenter=true&width=280&lines=Professional+Android+App;Kotlin+%2B+Supabase;Real-Time+Cloud+Sync" />
-
-</div>
-
-`Kotlin` `Supabase` `Android Studio`
-
-- ☁️ Real-time Supabase sync
-- 📱 Polished native Android UI
-- 🎨 Professional branding
-- 🔄 Live data updates
-
-[![View](https://img.shields.io/badge/View_Project-%23121011.svg?style=for-the-badge&logo=github&logoColor=00d9ff)](https://github.com/chetanngavali/AquaVera)
-
+<!-- Empty Placeholder to balance width -->
 </td>
 
 </tr>
