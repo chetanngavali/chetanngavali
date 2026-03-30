@@ -85,73 +85,44 @@
 
 <div align="center">
 
-<table>
+### 🛡️ Flagship Research: EVIL_TWINS_ESP8266
+  
+[![Hacking Tool](https://img.shields.io/badge/Security_Research-Project-critical?style=for-the-badge&logo=kali-linux&logoColor=white)](https://github.com/chetanngavali/ESP8266-Evil-Twin-Project)
+[![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://github.com/chetanngavali/ESP8266-Evil-Twin-Project)
+[![ESP8266](https://img.shields.io/badge/ESP8266-E01E22?style=for-the-badge&logo=espressif&logoColor=white)](https://github.com/chetanngavali/ESP8266-Evil-Twin-Project)
+
+**A high-performance Wi-Fi MITM & Rogue Access Point simulation framework.**
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=FF4444&center=true&vCenter=true&width=500&lines=%E2%96%B6+Fake+AP+%2B+Credential+Harvesting;%E2%96%B6+Real-time+Web+Control+Panel;%E2%96%B6+Dual-Channel+OLED+Status+Monitoring" />
+
+---
+
+<table width="100%">
 <tr>
+<td width="50%" align="center" valign="top">
 
-<td width="50%" valign="top">
-<h3 align="center">📡 EVIL_TWINS_ESP8266</h3>
-<div align="center">
+### 📻 NRFBox-by-RootQubit
+[![RF Hacking](https://img.shields.io/badge/RF-Security-7aa2f7?style=flat-square&logo=radio-automation&logoColor=white)](https://github.com/chetanngavali/NRFBox-by-RootQubit)
+[![C](https://img.shields.io/badge/Language-C-A8B9CC?style=flat-square&logo=c&logoColor=white)](https://github.com/chetanngavali/NRFBox-by-RootQubit)
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&pause=900&color=FF4444&center=true&vCenter=true&width=280&lines=Wi-Fi+Evil+Twin+Research+Tool;C%2B%2B+%2B+ESP8266+%2B+OLED;MITM+Attack+Simulation" />
+**Wireless signal research tools.**
+*Sub-GHz & RF hacking via NRF24L01.*
 
-</div>
-
-`C++` `ESP8266` `Rogue AP` `OLED` `Web UI`
-
-- 📶 Fake AP + credential capture
-- 🌐 Real-time web control panel
-- 📟 OLED status display
-- 🔬 Ethical research & education
-
-[![View](https://img.shields.io/badge/View_Project-%23121011.svg?style=for-the-badge&logo=github&logoColor=FF4444)](https://github.com/chetanngavali/ESP8266-Evil-Twin-Project)
+[**📦 View Repository**](https://github.com/chetanngavali/NRFBox-by-RootQubit)
 
 </td>
+<td width="50%" align="center" valign="top">
 
-<td width="50%" valign="top">
-<h3 align="center">📻 NRFBox-by-RootQubit</h3>
-<div align="center">
+### 🔐 secure_stego
+[![Stego](https://img.shields.io/badge/Steganography-Tool-bb9af7?style=flat-square&logo=shield&logoColor=white)](https://github.com/chetanngavali/secure_stego)
+[![Python](https://img.shields.io/badge/Language-Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://github.com/chetanngavali/secure_stego)
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&pause=900&color=FF4444&center=true&vCenter=true&width=280&lines=NRF+Wireless+Hacking+Box;C+%2B+Embedded+Systems;RF+Security+Research" />
+**AEAD-encrypted image steganography.**
+*ChaCha20-Poly1305 with random pixel ordering.*
 
-</div>
-
-`C` `NRF24L01` `Wireless` `Embedded`
-
-- 🛜 Sub-GHz & RF signal research
-- 📦 Portable hacking box setup
-- 🔬 Hardware security testing
-- 📡 Custom payload delivery
-
-[![View](https://img.shields.io/badge/View_Project-%23121011.svg?style=for-the-badge&logo=github&logoColor=FF4444)](https://github.com/chetanngavali/NRFBox-by-RootQubit)
+[**🔑 View Repository**](https://github.com/chetanngavali/secure_stego)
 
 </td>
-
-</tr>
-<tr>
-
-<td width="50%" valign="top">
-<h3 align="center">🔐 secure_stego</h3>
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&pause=900&color=00d9ff&center=true&vCenter=true&width=280&lines=Secure+Steganography+Tool;Python+%2B+AEAD+Encryption;Hidden+Image+Data" />
-
-</div>
-
-`Python` `Cryptography` `AEAD` `Pillow`
-
-- 🔒 Encrypts text with AES-256-GCM
-- 🖼️ Embeds payload inside images
-- 🎲 Cryptographically random ordering
-- 🛡️ Advanced payload extraction
-
-[![View](https://img.shields.io/badge/View_Project-%23121011.svg?style=for-the-badge&logo=github&logoColor=00d9ff)](https://github.com/chetanngavali/secure_stego)
-
-</td>
-
-<td width="50%" valign="top">
-<!-- Empty Placeholder to balance width -->
-</td>
-
 </tr>
 </table>
 
