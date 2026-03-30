@@ -263,12 +263,34 @@
 
 <br/><br/>
 
-### 🐍 My Contributions Eating Themselves
+### 🐍 My Contributions — Year by Year
 
+**📅 2026**
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/chetanngavali/chetanngavali/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/chetanngavali/chetanngavali/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/chetanngavali/chetanngavali/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/chetanngavali/chetanngavali/output/github-contribution-grid-snake-dark-2026.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/chetanngavali/chetanngavali/output/github-contribution-grid-snake-2026.svg" />
+  <img alt="github-snake-2026" src="https://raw.githubusercontent.com/chetanngavali/chetanngavali/output/github-contribution-grid-snake-2026.svg" />
+</picture>
+
+**📅 2025**
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/chetanngavali/chetanngavali/output/github-contribution-grid-snake-dark-2025.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/chetanngavali/chetanngavali/output/github-contribution-grid-snake-2025.svg" />
+  <img alt="github-snake-2025" src="https://raw.githubusercontent.com/chetanngavali/chetanngavali/output/github-contribution-grid-snake-2025.svg" />
+</picture>
+
+**📅 2024**
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/chetanngavali/chetanngavali/output/github-contribution-grid-snake-dark-2024.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/chetanngavali/chetanngavali/output/github-contribution-grid-snake-2024.svg" />
+  <img alt="github-snake-2024" src="https://raw.githubusercontent.com/chetanngavali/chetanngavali/output/github-contribution-grid-snake-2024.svg" />
+</picture>
+
+**📅 2023**
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/chetanngavali/chetanngavali/output/github-contribution-grid-snake-dark-2023.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/chetanngavali/chetanngavali/output/github-contribution-grid-snake-2023.svg" />
+  <img alt="github-snake-2023" src="https://raw.githubusercontent.com/chetanngavali/chetanngavali/output/github-contribution-grid-snake-2023.svg" />
 </picture>
 
 </div>

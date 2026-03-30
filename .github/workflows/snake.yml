@@ -18,13 +18,21 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Generate snake SVG
+      - name: Generate snake SVG (all years)
         uses: Platane/snk@v3
         with:
           github_user_name: chetanngavali
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake-2023.svg?year=2023
+            dist/github-contribution-grid-snake-dark-2023.svg?palette=github-dark&year=2023
+            dist/github-contribution-grid-snake-2024.svg?year=2024
+            dist/github-contribution-grid-snake-dark-2024.svg?palette=github-dark&year=2024
+            dist/github-contribution-grid-snake-2025.svg?year=2025
+            dist/github-contribution-grid-snake-dark-2025.svg?palette=github-dark&year=2025
+            dist/github-contribution-grid-snake-2026.svg?year=2026
+            dist/github-contribution-grid-snake-dark-2026.svg?palette=github-dark&year=2026
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
