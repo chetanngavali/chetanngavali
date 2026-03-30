@@ -6,10 +6,10 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chetanngavali/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chetanngavali)
-[![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/chetanngavali)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/chetanngavali)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00d9ff)](https://www.linkedin.com/in/chetanngavali/)
+[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=00d9ff)](https://github.com/chetanngavali)
+[![HackerRank](https://img.shields.io/badge/HackerRank-0d1117?style=for-the-badge&logo=HackerRank&logoColor=00d9ff)](https://www.hackerrank.com/chetanngavali)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-0d1117?style=for-the-badge&logo=tryhackme&logoColor=00d9ff)](https://tryhackme.com/p/chetanngavali)
 
 <br/>
 
@@ -27,12 +27,11 @@
 {
   "name"        : "Chetan Gavali",
   "location"    : "📍 Nashik, Maharashtra, India",
-  "education"   : "🎓 B.E. CS — KK Wagh Institute (2023–2027)",
+  "education"   : "🎓 B.E. CS (2023–2027)",
   "roles"       : ["🔐 Ethical Hacker", "💻 Full-Stack Dev", "📡 IoT Researcher", "🚩 CTF Player"],
-  "building"    : ["🤖 DrishtiAi", "🗳️ SmartVote", "🖥️ SUVIDHA-2026"],
-  "learning"    : ["Next.js", "Bug Bounty", "Advanced Pen Testing"],
-  "ask_me"      : ["React", "ESP8266 Attacks", "CTF Writeups", "MERN Stack"],
-  "fun_fact"    : "🛜 I break Wi-Fi networks... legally 😈"
+  "learning"    : ["Next.js", "Bug Bounty", "Pen Testing"],
+  "ask_me"      : ["Cyber Security", "ESP8266 Attacks", "CTF Writeups", "MERN Stack", "Website Development", "App Development", "IoT Security"],
+  "fun_fact"    : ["🛜 I break Wi-Fi networks... legally 😈", "I am a CTF player and I have won 1 CTF competition and 3 hackathon finals", "I am a full-stack developer and I have built many websites and apps", "I am an IoT researcher and I have built many IoT projects"]
 }
 ```
 
@@ -319,10 +318,10 @@
 
 <div align="center">
 
-![INCYBIC](https://img.shields.io/badge/INCYBIC-Cyber_Defense_Team-00d9ff?style=for-the-badge&logo=shield&logoColor=white)
-![CTF](https://img.shields.io/badge/CTF-Active_Competitor-red?style=for-the-badge&logo=hackthebox&logoColor=white)
-![Security](https://img.shields.io/badge/Security-Awareness_Advocate-orange?style=for-the-badge&logo=linkedin&logoColor=white)
-![Volleyball](https://img.shields.io/badge/Volleyball-State_Level_Athlete-blue?style=for-the-badge&logoColor=white)
+![INCYBIC](https://img.shields.io/badge/INCYBIC-Cyber_Defense_Team-0d1117?style=for-the-badge&logo=shield&logoColor=00d9ff)
+![CTF](https://img.shields.io/badge/CTF-Active_Competitor-0d1117?style=for-the-badge&logo=hackthebox&logoColor=00d9ff)
+![Security](https://img.shields.io/badge/Security-Awareness_Advocate-0d1117?style=for-the-badge&logo=linkedin&logoColor=00d9ff)
+![Volleyball](https://img.shields.io/badge/Volleyball-State_Level_Athlete-0d1117?style=for-the-badge&logoColor=00d9ff)
 
 </div>
 
@@ -330,10 +329,10 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect!-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chetanngavali/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow_Me-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chetanngavali)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-View_Profile-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/chetanngavali)
-[![HackerRank](https://img.shields.io/badge/HackerRank-View_Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/chetanngavali)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect!-0d1117?style=for-the-badge&logo=linkedin&logoColor=00d9ff)](https://www.linkedin.com/in/chetanngavali/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow_Me-0d1117?style=for-the-badge&logo=github&logoColor=00d9ff)](https://github.com/chetanngavali)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-View_Profile-0d1117?style=for-the-badge&logo=tryhackme&logoColor=00d9ff)](https://tryhackme.com/p/chetanngavali)
+[![HackerRank](https://img.shields.io/badge/HackerRank-View_Profile-0d1117?style=for-the-badge&logo=hackerrank&logoColor=00d9ff)](https://www.hackerrank.com/chetanngavali)
 
 <br/>
 
