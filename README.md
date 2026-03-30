@@ -59,46 +59,57 @@
 
 ---
 
-## 🛡️ Cybersecurity Arsenal
+## 🛠️ System Capabilities
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=800&color=FF4444&center=true&vCenter=true&width=600&lines=Penetration+Testing+%F0%9F%8E%AF;Evil+Twin+%2B+Rogue+AP+Attacks+%F0%9F%93%A1;Wi-Fi+MITM+%7C+XSS+%7C+IDOR+%7C+Dorking;Hash+Cracking+%F0%9F%94%91;CTF+Competitor+%F0%9F%9A%A9;ISO%2FIEC+27001%3A2022+Certified" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=800&color=7aa2f7&center=true&vCenter=true&width=600&lines=System+Diagnostics:+OK;Digital+Arsenal+Initialized;Cybersecurity+%2B+Full-Stack+%2B+IoT" />
 
-<br/>
+<table width="100%">
+<tr>
+<td width="33%" align="center" valign="top">
 
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
-![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+### 🛡️ Offensive Security
+[![Kali](https://img.shields.io/badge/Kali-557C94?style=flat-square&logo=kali-linux&logoColor=white)](https://github.com/chetanngavali)
+[![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)](https://github.com/chetanngavali)
+[![THM](https://img.shields.io/badge/TryHackMe-212C42?style=flat-square&logo=tryhackme&logoColor=white)](https://github.com/chetanngavali)
 
-</div>
+**Expertise**
+*Evil Twin • Wi-Fi MITM*
+*Hash Cracking • XSS*
+*Pentesting • Dorking*
 
----
+</td>
+<td width="34%" align="center" valign="top">
 
-## 💻 Tech Stack
+### 💻 Full-Stack Dev
+[![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)](https://github.com/chetanngavali)
+[![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)](https://github.com/chetanngavali)
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)](https://github.com/chetanngavali)
 
-<div align="center">
+**Tech Stack**
+*MERN • Next.js • TS*
+*PostgreSQL • Supabase*
+*GitHub Actions • Git*
 
-<br/>
+</td>
+<td width="33%" align="center" valign="top">
 
-**⚡ Languages**
+### 🤖 IoT & Hardware
+[![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white)](https://github.com/chetanngavali)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://github.com/chetanngavali)
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)](https://github.com/chetanngavali)
 
-[![Skills](https://skillicons.dev/icons?i=ts,js,py,java,kotlin,cpp,php,c&perline=8)](https://skillicons.dev)
+**Research**
+*ESP8266 Attacks*
+*NRF RF Security*
+*Embedded C • OpenCV*
 
-**🎨 Frontend & Mobile**
+</td>
+</tr>
+</table>
 
-[![Skills](https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,materialui,androidstudio,kotlin&perline=8)](https://skillicons.dev)
-
-**⚙️ Backend, DB & Cloud**
-
-[![Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,mysql,supabase,firebase,git&perline=8)](https://skillicons.dev)
-
-**🤖 AI / IoT / Tools**
-
-[![Skills](https://skillicons.dev/icons?i=tensorflow,opencv,vscode,linux,bash,arduino&perline=6)](https://skillicons.dev)
+[![Detailed Skills](https://skillicons.dev/icons?i=ts,js,py,java,cpp,c,react,nextjs,tailwind,nodejs,express,mongodb,postgres,mysql,supabase,firebase,linux,arduino,tensorflow,opencv,vscode,git&perline=11)](https://skillicons.dev)
 
 </div>
 
@@ -146,7 +157,7 @@
 
 ---
 
-## 🏅 Hackathon Record
+## 🥈 Achievement Record
 
 <div align="center">
 
@@ -154,14 +165,13 @@
 
 <br/>
 
-| 🏅 | Event | Result |
+| 🏅 | Event | Recognition |
 |:---:|:---|:---:|
 | 🥇 | **Mind Spark 2024 @ KBTCOE** — Team *Pseudo Coders* | **1st Place Winner** |
-| 🏆 | **Hack4Innovation 2026** — AI Navigation App | **Finalist** |
-| 🏆 | **PCU's Ideathon 3.0** — Team *Code Yoddhas* | **Finalist** |
-| 🌍 | **Vibe Hacks International** — Backend & Cyber | **Top 1,000 Globally** |
-| 🚩 | **CREST CTF @ IIT Madras Shaastra 2026** | Participant |
-| 💡 | **Tech Forge 2025** — Cybersecurity | Participant |
+| 🛡️ | **Hack4Innovation 2026** — AI Navigation Dashboard | **Finalist** |
+| 🚀 | **PCU's Ideathon 3.0** — Team *Code Yoddhas* | **Finalist** |
+| 🌍 | **Vibe Hacks International** — Backend & Security | **Top 1,000 Global** |
+| 🚩 | **Shaastra 2026 CREST CTF @ IIT Madras** | **National Level Participator** |
 
 </div>
 
