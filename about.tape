@@ -2,7 +2,6 @@ Output about.gif
 
 Require jq
 
-Set Shell "bash"
 Set FontSize 18
 Set FontFamily "Fira Code"
 Set Width 900

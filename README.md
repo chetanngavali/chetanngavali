@@ -23,9 +23,17 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00FF88&center=true&vCenter=true&width=600&lines=%24+whoami;Chetan+Gavali+%E2%80%94+Ethical+Hacker+%26+Builder;%24+cat+about.json" />
 </div>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/chetanngavali/chetanngavali/output/about.gif" alt="Animated about.json content" width="800" />
-</div>
+```json
+{
+  "name"        : "Chetan Gavali",
+  "location"    : "📍 Nashik, Maharashtra, India",
+  "education"   : "🎓 B.E. CS (2023–2027)",
+  "roles"       : ["🔐 Ethical Hacker", "💻 Full-Stack Dev", "📡 IoT Researcher", "🚩 CTF Player"],
+  "learning"    : ["Next.js", "Bug Bounty", "Pen Testing"],
+  "ask_me"      : ["Cyber Security", "ESP8266 Attacks", "CTF Writeups", "MERN Stack", "Website Development", "App Development", "IoT Security"],
+  "fun_fact"    : ["🛜 I break Wi-Fi networks... legally 😈", "I am a CTF player and I have won 1 CTF competition and 3 hackathon finals", "I am a full-stack developer and I have built many websites and apps", "I am an IoT researcher and I have built many IoT projects"]
+}
+```
 
 ---
 
