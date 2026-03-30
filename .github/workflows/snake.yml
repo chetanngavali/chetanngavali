@@ -31,10 +31,15 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.SNK_TOKEN }}
 
+      - name: Install VHS and Dependencies
+        run: |
+          sudo mkdir -p /etc/apt/keyrings
+          curl -fsSL https://repo.charm.sh/apt/gpg.key | sudo gpg --dearmor -o /etc/apt/keyrings/charm.gpg
+          echo "deb [signed-by=/etc/apt/keyrings/charm.gpg] https://repo.charm.sh/apt/ * *" | sudo tee /etc/apt/sources.list.d/charm.list
+          sudo apt-get update && sudo apt-get install vhs ffmpeg ttyd -y
+
       - name: Generate About GIF animation using VHS
-        uses: charmbracelet/vhs-action@v2
-        with:
-          path: 'about.tape'
+        run: vhs about.tape
 
       - name: Prep about.gif for pages
         run: mv about.gif dist/about.gif
