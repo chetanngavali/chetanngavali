@@ -31,6 +31,14 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.SNK_TOKEN }}
 
+      - name: Generate About GIF animation using VHS
+        uses: charmbracelet/vhs-action@v2
+        with:
+          path: 'about.tape'
+
+      - name: Prep about.gif for pages
+        run: mv about.gif dist/about.gif
+
       - name: Push snake to output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
