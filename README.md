@@ -3,82 +3,111 @@
 <img src="./terminal_header.svg" width="900" />
 
 <div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=48&duration=2000&pause=500&color=00d9ff&center=true&vCenter=true&width=900&lines=Chetan+Gavali;Ethical+Hacker;IoT+Security+Researcher;Full-Stack+Developer" alt="Name" />
+</div>
 
-**root.chetan:~$ whoami**
+<div align="center">
+  <p><b>root.chetan:~$ systemctl status identity</b></p>
+  <p>Specializing in <b>offensive security</b> and <b>IoT protocol research</b>.</p>
+</div>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=48&duration=1&pause=0&color=bb9af7&center=true&vCenter=true&width=900&lines=Chetan+Gavali" alt="Name" />
-
-**Ethical Hacker | Cybersecurity Researcher | Full-Stack Developer**
-
-<p>Specializing in uncover deep vulnerabilities in IoT and wireless protocols.</p>
-
-<br/>
-
-[![Status](https://img.shields.io/badge/STATUS-SECURE-success?style=for-the-badge&logo=shield&logoColor=white)](https://github.com/chetanngavali)
-[![Connection](https://img.shields.io/badge/CONNECTION-ENCRYPTED-7aa2f7?style=for-the-badge&logo=gnutls&logoColor=white)](https://github.com/chetanngavali)
-[![Access](https://img.shields.io/badge/ACCESS-GRANTED-00d9ff?style=for-the-badge&logo=keys&logoColor=white)](https://github.com/chetanngavali)
-
-<br/><br/>
-
-**root.chetan:~$ ls capabilities/**
-
-[![Skills](https://skillicons.dev/icons?i=ts,js,py,java,cpp,c,react,nextjs,tailwind,nodejs,express,mongodb,postgres,mysql,supabase,firebase,linux,arduino,tensorflow,opencv,vscode,git&perline=11)](https://skillicons.dev)
+<div align="center">
+  <img src="https://img.shields.io/badge/STATUS-SECURE-73daca?style=for-the-badge&logo=shield&logoColor=white" />
+  <img src="https://img.shields.io/badge/CONNECTION-ENCRYPTED-bb9af7?style=for-the-badge&logo=gnutls&logoColor=white" />
+  <img src="https://img.shields.io/badge/ACCESS-GRANTED-00d9ff?style=for-the-badge&logo=keys&logoColor=white" />
+</div>
 
 <br/><br/>
 
-**root.chetan:~$ ls projects/**
+**root.chetan:~$ ls /bin/capabilities/**
 
-<table width="100%">
-<tr>
-<td width="50%" align="center" valign="top">
+<div align="center">
+  <table>
+    <tr>
+      <td align="center"><b>Offensive</b></td>
+      <td align="center"><b>Defensive</b></td>
+      <td align="center"><b>Development</b></td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/-Kali_Linux-557C94?style=flat-square&logo=kali-linux&logoColor=white" />
+        <img src="https://img.shields.io/badge/-Burp_Suite-ff6633?style=flat-square&logo=burp-suite&logoColor=white" />
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/-ISO_27001-blue?style=flat-square" />
+        <img src="https://img.shields.io/badge/-Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" />
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
+      </td>
+    </tr>
+  </table>
+</div>
 
-### 🛡️ EVIL_TWINS_ESP8266
-  
-[![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://github.com/chetanngavali/ESP8266-Evil-Twin-Project)
+<div align="center">
+  <br/>
+  <img src="https://skillicons.dev/icons?i=ts,js,py,java,cpp,c,react,nextjs,tailwind,nodejs,express,mongodb,postgres,mysql,supabase,firebase,linux,arduino,tensorflow,opencv,vscode,git&perline=11" />
+</div>
 
-**Wi-Fi MITM Rogue Access Point framework.**
+<br/><br/>
 
-[**🚀 Launch Project**](https://github.com/chetanngavali/ESP8266-Evil-Twin-Project)
+**root.chetan:~$ ls /home/projects/**
 
-</td>
-<td width="50%" align="center" valign="top">
+<div align="center">
+  <table width="100%">
+    <tr>
+      <td width="50%" align="center" valign="top">
+        <br/>
+        <img src="https://img.shields.io/badge/📡_EVIL_TWINS_ESP8266-00d9ff?style=for-the-badge" />
+        <br/><br/>
+        <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
+        <br/><br/>
+        <i>"Wi-Fi MITM Rogue Access Point framework."</i>
+        <br/><br/>
+        <a href="https://github.com/chetanngavali/ESP8266-Evil-Twin-Project"><b>[ Launch_Project.exe ]</b></a>
+      </td>
+      <td width="50%" align="center" valign="top">
+        <br/>
+        <img src="https://img.shields.io/badge/🔐_SECURE_STEGO-bb9af7?style=for-the-badge" />
+        <br/><br/>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <br/><br/>
+        <i>"AEAD-encrypted image steganography."</i>
+        <br/><br/>
+        <a href="https://github.com/chetanngavali/secure_stego"><b>[ Open_Repository.sh ]</b></a>
+      </td>
+    </tr>
+  </table>
+</div>
 
-### 🔐 secure_stego
-[![Python](https://img.shields.io/badge/Language-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/chetanngavali)
+**root.chetan:~$ tail -n 3 /var/log/awards.log**
 
-**AEAD-encrypted image steganography.**
-
-[**🔑 View Repository**](https://github.com/chetanngavali/secure_stego)
-
-</td>
-</tr>
-</table>
+<div align="center">
+  <code>
+    [ 2024 ] MIND_SPARK_WINNER (KBTCOE) <br/>
+    [ 2026 ] HACK4INNOVATION_FINALIST <br/>
+    [ 2026 ] PCU_IDEATHON_3.0_FINALIST
+  </code>
+</div>
 
 <br/>
 
-**root.chetan:~$ cat awards.log**
-
-| 🏅 | Event | Recognition |
-|:---:|:---|:---:|
-| 🥇 | **Mind Spark 2024** | **1st Place Winner** |
-| 🛡️ | **Hack4Innovation 2026** | **Finalist** |
-| 🚀 | **PCU's Ideathon 3.0** | **Finalist** |
-
 <br/>
 
 
-<br/>
+**root.chetan:~$ cat /etc/certs.txt**
 
-**root.chetan:~$ cat certs.txt**
-
-**[✔] ISO/IEC 27001:2022 Information Security Associate™**  
-**[✔] Cybersecurity Fundamentals** — Reliance  
-**[✔] Bug Bounty Methodology** — Knight Secured  
-**[✔] Certified C++ Practitioner (94%)** — Red Team Leaders  
-**[✔] Frontend Developer (React)** — HackerRank  
-**[✔] Hash Cracker** — TryHackMe  
-**[✔] Kali Linux for Ethical Hackers** — Udemy  
-**[✔] Technology Job Simulation** — Deloitte Australia  
+<div align="left" style="margin-left: 20px;">
+  <code>[✔] ISO/IEC 27001:2022 Information Security Associate™</code><br/>
+  <code>[✔] Cybersecurity Fundamentals — Reliance</code><br/>
+  <code>[✔] Bug Bounty Methodology — Knight Secured</code><br/>
+  <code>[✔] Certified C++ Practitioner (94%) — Red Team Leaders</code><br/>
+  <code>[✔] Frontend Developer (React) — HackerRank</code><br/>
+  <code>[✔] Hash Cracker — TryHackMe</code><br/>
+  <code>[✔] Kali Linux for Ethical Hackers — Udemy</code><br/>
+  <code>[✔] Technology Job Simulation — Deloitte Australia</code>
+</div>
 
 <br/>
 
