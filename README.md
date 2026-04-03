@@ -53,10 +53,12 @@ root.chetan:~$ ls /bin/capabilities/
   <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,supabase,firebase" />
 </div>
 
-### Security & Tools
+### Security & DevTools
 <div>
   <img src="https://skillicons.dev/icons?i=linux,git,vscode,arduino,tensorflow,opencv" />
 </div>
+
+<br/>
 
 | Domain | Tools & Technologies |
 |--------|---------------------|
@@ -146,13 +148,19 @@ root.chetan:~$ cat /etc/certs.txt
 
 ## 📊 GitHub Stats
 
+```bash
+root.chetan:~$ git log --oneline --stat
+```
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chetanngavali&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chetanngavali&theme=tokyonight&hide_border=true" width="48%" />
+
+  <img src="https://github-readme-stats.vercel.app/api?username=chetanngavali&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=chetanngavali&theme=tokyonight&hide_border=true" width="48%" />
+
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chetanngavali&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chetanngavali&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="40%" />
 </div>
 
 ---
@@ -174,15 +182,17 @@ root.chetan:~$ cat /etc/certs.txt
 ```bash
 root.chetan:~$ cat contact.txt
 [!] Open to: Security Engineer, SDE, Internship, Freelance roles
-[!] Available for: Full-time, Contract, Remote/Hybrid — Pune, India
+[!] Available: Full-time · Contract · Remote/Hybrid — Pune, India
 ```
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Chetan_Gavali-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chetanngavali/)
 [![GitHub](https://img.shields.io/badge/GitHub-chetanngavali-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chetanngavali)
-[![Email](https://img.shields.io/badge/Email-chetangavali@protonmail.com-8B5CF6?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:chetangavali@protonmail.com)
+[![Email](https://img.shields.io/badge/Email-ProtonMail-8B5CF6?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:chetangavali@protonmail.com)
 
 </div>
+
+<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
