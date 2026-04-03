@@ -8,7 +8,7 @@
 
 <br/>
 
-<img src="https://img.shields.io/badge/📍_Pune,_Maharashtra-India-00d9ff?style=for-the-badge" />
+<img src="https://img.shields.io/badge/📍_Nashik,_Maharashtra-India-00d9ff?style=for-the-badge" />
 <img src="https://img.shields.io/badge/STATUS-OPEN_TO_WORK-73daca?style=for-the-badge&logo=shield&logoColor=white" />
 <img src="https://img.shields.io/badge/ROLE-Security_Engineer_/_SDE-bb9af7?style=for-the-badge" />
 
@@ -22,7 +22,7 @@
 root.chetan:~$ cat whoami.txt
 ```
 
-I'm a **Cybersecurity & Full-Stack Developer** from Pune, India, specializing in **offensive security**, **IoT protocol research**, and building **secure, production-grade web applications**. I bridge the gap between security and development — writing code that is both functional and resilient.
+I'm a **Cybersecurity & Full-Stack Developer** from Nashik, India, specializing in **offensive security**, **IoT protocol research**, and building **secure, production-grade web applications**. I bridge the gap between security and development — writing code that is both functional and resilient.
 
 - 🔐 Skilled in **penetration testing**, **web vulnerability scanning**, and **MITM attack research**
 - 🌐 Full-stack experience with **React, Next.js, Node.js, and PostgreSQL**
@@ -94,27 +94,6 @@ A tool for hiding AES-GCM (AEAD) encrypted messages inside images, combining ste
 
 ---
 
-### 💧 AquaVera — Smart Water Management System
-> **React · IoT · ESP32 · PostgreSQL**
-
-IoT-based water quality and distribution management platform with real-time sensor dashboards, anomaly detection, and remote control — built for a national-level hackathon.
-
----
-
-### 🗳️ E-Voting Portal
-> **React · Node.js · PostgreSQL**
-
-Secure online voting system with role-based access control, audit logs, and encrypted ballot submission. Designed with security-first architecture.
-
----
-
-### 🏠 StayBuddy — Hostel Finder Platform
-> **React · Firebase · Maps API**
-
-Full-stack student accommodation finder with geo-based search, verified listings, and real-time availability — targeting the student housing gap in Maharashtra.
-
----
-
 ## 🏆 Achievements
 
 ```bash
@@ -146,26 +125,11 @@ root.chetan:~$ cat /etc/certs.txt
 
 ---
 
-## 📊 GitHub Stats
+## 🐍 Contribution Activity
 
 ```bash
-root.chetan:~$ git log --oneline --stat
+root.chetan:~$ git log --graph --oneline
 ```
-
-<div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=chetanngavali&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" width="48%" />
-  <img src="https://streak-stats.demolab.com/?user=chetanngavali&theme=tokyonight&hide_border=true" width="48%" />
-
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chetanngavali&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="40%" />
-</div>
-
----
-
-## 🐍 Contribution Activity
 
 <div align="center">
   <picture>
@@ -182,7 +146,7 @@ root.chetan:~$ git log --oneline --stat
 ```bash
 root.chetan:~$ cat contact.txt
 [!] Open to: Security Engineer, SDE, Internship, Freelance roles
-[!] Available: Full-time · Contract · Remote/Hybrid — Pune, India
+[!] Available: Full-time · Contract · Remote/Hybrid — Nashik, India
 ```
 
 <div align="center">
