@@ -74,9 +74,14 @@
 
 **root.chetan:~$ cat certs.txt**
 
-**[✔] ISO/IEC 27001 Internal Auditor**  
-**[✔] Cybersecurity Fundamentals** — Goldman Sachs  
-**[✔] Software Engineering** — J.P. Morgan
+**[✔] ISO/IEC 27001:2022 Information Security Associate™**  
+**[✔] Cybersecurity Fundamentals** — Reliance  
+**[✔] Bug Bounty Methodology** — Knight Secured  
+**[✔] Certified C++ Practitioner (94%)** — Red Team Leaders  
+**[✔] Frontend Developer (React)** — HackerRank  
+**[✔] Hash Cracker** — TryHackMe  
+**[✔] Kali Linux for Ethical Hackers** — Udemy  
+**[✔] Technology Job Simulation** — Deloitte Australia  
 
 <br/>
 
