@@ -1,99 +1,163 @@
 <div align="center">
 
-<img src="./terminal_header.svg" width="900" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Chetan%20Gavali&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20IoT%20Security%20Researcher&descAlignY=55&descSize=18" />
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=42&duration=2500&pause=1000&color=007cf0&center=true&vCenter=true&width=800&lines=Ethical+Hacker+%7C+IoT+Security;Full-Stack+Developer+%7C+Cyber+Researcher" alt="Role" />
-</div>
-
-<div align="center">
-  <p>Dedicated to uncovering vulnerabilities in <b>IoT protocols</b> and building <b>secure software ecosystems</b>.</p>
-  <p>
-    <img src="https://img.shields.io/badge/Status-In--Depth_Research-007cf0?style=flat-square&logo=shield" />
-    <img src="https://img.shields.io/badge/Certifications-ISO_27001%3A2022-7aa2f7?style=flat-square&logo=credential" />
-    <img src="https://img.shields.io/badge/Focus-Offensive_Security-ff0055?style=flat-square&logo=target" />
-  </p>
-</div>
-
-<br/><br/>
-
-### 🛡️ Core Expertise
-
-<div align="center">
-  <table>
-    <tr>
-      <td width="33%" align="center"><b>Offensive Security</b></td>
-      <td width="33%" align="center"><b>Defensive & Risk</b></td>
-      <td width="33%" align="center"><b>Web Development</b></td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kali-linux&logoColor=white" /><br/>
-        <img src="https://img.shields.io/badge/Burp_Suite-ff6633?style=flat-square&logo=burp-suite&logoColor=white" /><br/>
-        <img src="https://img.shields.io/badge/Metasploit-212C42?style=flat-square&logo=metasploit" />
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/ISO_27001-007cf0?style=flat-square" /><br/>
-        <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" /><br/>
-        <img src="https://img.shields.io/badge/Risk_Assmt-grey?style=flat-square" />
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" /><br/>
-        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" /><br/>
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-      </td>
-    </tr>
-  </table>
-</div>
-
-### ⚙️ Full Tech Stack
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,py,java,cpp,c,react,nextjs,tailwind,nodejs,express,mongodb,postgres,mysql,supabase,firebase,linux,arduino,tensorflow,opencv,vscode,git&perline=11" />
-</div>
-
-<br/><br/>
-
-### 🏅 Recognition & Awards
-
-- 🥇 **1st Place Winner** — Mind Spark 2024 (KBTCOE)
-- 🛡️ **Finalist** — Hack4Innovation 2026
-- 🚀 **Finalist** — PCU's Ideathon 3.0
-
-### 📜 Certifications
-
-- 🔐 **ISO/IEC 27001:2022** — Information Security Associate™
-- 🌐 **Cybersecurity Fundamentals** — Reliance
-- 🏹 **Bug Bounty Methodology** — Knight Secured
-- 💻 **Certified C++ Practitioner** — Red Team Leaders (Score: 94%)
-- 🎨 **Frontend Developer (React)** — HackerRank
-- 🧩 **Technology Job Simulation** — Deloitte Australia
-
-<br/>
-
-### 📊 GitHub Insights
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=chetanngavali&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chetanngavali&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2000&pause=500&color=00d9ff&center=true&vCenter=true&width=700&lines=Ethical+Hacker+%26+Penetration+Tester;IoT+Security+%7C+ESP8266+%2F+ESP32;Full-Stack+Web+%26+Mobile+Developer;ISO+27001+Certified+%7C+Open+to+Opportunities" alt="Typing SVG" />
 </div>
 
 <br/>
 
-### 📫 Connectivity
-
-- 💼 [**LinkedIn**](https://www.linkedin.com/in/chetanngavali/)
-- 🐙 [**GitHub**](https://github.com/chetanngavali)
-- 📧 [**Email**](mailto:chetangavali@protonmail.com)
+<img src="https://img.shields.io/badge/📍_Pune,_Maharashtra-India-00d9ff?style=for-the-badge" />
+<img src="https://img.shields.io/badge/STATUS-OPEN_TO_WORK-73daca?style=for-the-badge&logo=shield&logoColor=white" />
+<img src="https://img.shields.io/badge/ROLE-Security_Engineer_/_SDE-bb9af7?style=for-the-badge" />
 
 </div>
-
-</div>
-
 
 ---
 
-## 🐍 Contribution Snake
+## 👨‍💻 About Me
+
+```bash
+root.chetan:~$ cat whoami.txt
+```
+
+I'm a **Cybersecurity & Full-Stack Developer** from Pune, India, specializing in **offensive security**, **IoT protocol research**, and building **secure, production-grade web applications**. I bridge the gap between security and development — writing code that is both functional and resilient.
+
+- 🔐 Skilled in **penetration testing**, **web vulnerability scanning**, and **MITM attack research**
+- 🌐 Full-stack experience with **React, Next.js, Node.js, and PostgreSQL**
+- 📡 IoT security research using **ESP8266 / ESP32** for real-world wireless attack simulations
+- 🏆 Hackathon finalist and award winner with multiple shipped projects
+- 📬 Reach me: **chetangavali@protonmail.com**
+
+---
+
+## 🛠️ Technical Skills
+
+```bash
+root.chetan:~$ ls /bin/capabilities/
+```
+
+### Languages
+<div>
+  <img src="https://skillicons.dev/icons?i=ts,js,py,java,cpp,c" />
+</div>
+
+### Frontend & Backend
+<div>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,express" />
+</div>
+
+### Databases & Cloud
+<div>
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,supabase,firebase" />
+</div>
+
+### Security & Tools
+<div>
+  <img src="https://skillicons.dev/icons?i=linux,git,vscode,arduino,tensorflow,opencv" />
+</div>
+
+| Domain | Tools & Technologies |
+|--------|---------------------|
+| **Offensive Security** | Kali Linux, Burp Suite, Metasploit, Nmap, OWASP ZAP |
+| **Network Security** | Wireshark, ESP8266 Evil Twin, Packet Analysis |
+| **Web Security** | SQL Injection, XSS, CSRF, IDOR, Auth Bypass |
+| **Standards** | ISO/IEC 27001:2022, OWASP Top 10 |
+| **Dev Tools** | Git, Docker, Netlify, Hostinger, ngrok |
+
+---
+
+## 🚀 Featured Projects
+
+```bash
+root.chetan:~$ ls /home/projects/ --sort=impact
+```
+
+### 📡 Evil Twins — ESP8266 Wi-Fi MITM Framework
+> **C++ · ESP8266 · Network Security**
+
+A rogue access point framework that simulates real-world Wi-Fi MITM attacks for educational penetration testing. Demonstrates deauthentication attacks, credential capture, and packet sniffing on wireless networks.
+
+🔗 [View Repository](https://github.com/chetanngavali/ESP8266-Evil-Twin-Project)
+
+---
+
+### 🔐 SecureStego — AEAD-Encrypted Image Steganography
+> **Python · Cryptography · Steganography**
+
+A tool for hiding AES-GCM (AEAD) encrypted messages inside images, combining steganography with authenticated encryption. Useful for secure covert communication research.
+
+🔗 [View Repository](https://github.com/chetanngavali/secure_stego)
+
+---
+
+### 💧 AquaVera — Smart Water Management System
+> **React · IoT · ESP32 · PostgreSQL**
+
+IoT-based water quality and distribution management platform with real-time sensor dashboards, anomaly detection, and remote control — built for a national-level hackathon.
+
+---
+
+### 🗳️ E-Voting Portal
+> **React · Node.js · PostgreSQL**
+
+Secure online voting system with role-based access control, audit logs, and encrypted ballot submission. Designed with security-first architecture.
+
+---
+
+### 🏠 StayBuddy — Hostel Finder Platform
+> **React · Firebase · Maps API**
+
+Full-stack student accommodation finder with geo-based search, verified listings, and real-time availability — targeting the student housing gap in Maharashtra.
+
+---
+
+## 🏆 Achievements
+
+```bash
+root.chetan:~$ tail -n 5 /var/log/awards.log
+```
+
+| Year | Achievement |
+|------|------------|
+| 🥇 2024 | **MindSpark Winner** — KBTCOE Technical Fest |
+| 🏅 2026 | **Hack4Innovation Finalist** |
+| 🏅 2026 | **PCU Ideathon 3.0 Finalist** |
+
+---
+
+## 📜 Certifications
+
+```bash
+root.chetan:~$ cat /etc/certs.txt
+```
+
+- ✅ **ISO/IEC 27001:2022** Information Security Associate™
+- ✅ **Bug Bounty Methodology** — Knight Secured
+- ✅ **Certified C++ Practitioner (94%)** — Red Team Leaders
+- ✅ **Kali Linux for Ethical Hackers** — Udemy
+- ✅ **Frontend Developer (React)** — HackerRank
+- ✅ **Cybersecurity Fundamentals** — Reliance
+- ✅ **Hash Cracker** — TryHackMe
+- ✅ **Technology Job Simulation** — Deloitte Australia
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=chetanngavali&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chetanngavali&theme=tokyonight&hide_border=true" width="48%" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chetanngavali&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
+</div>
+
+---
+
+## 🐍 Contribution Activity
 
 <div align="center">
   <picture>
@@ -105,6 +169,20 @@
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
-</p>
+## 📬 Let's Connect
+
+```bash
+root.chetan:~$ cat contact.txt
+[!] Open to: Security Engineer, SDE, Internship, Freelance roles
+[!] Available for: Full-time, Contract, Remote/Hybrid — Pune, India
+```
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Chetan_Gavali-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chetanngavali/)
+[![GitHub](https://img.shields.io/badge/GitHub-chetanngavali-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chetanngavali)
+[![Email](https://img.shields.io/badge/Email-chetangavali@protonmail.com-8B5CF6?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:chetangavali@protonmail.com)
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
