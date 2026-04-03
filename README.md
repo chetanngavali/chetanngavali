@@ -66,9 +66,6 @@
 
 <br/>
 
-**root.chetan:~$ whoami --stats**
-
-
 
 <br/>
 
