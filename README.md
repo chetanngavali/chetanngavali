@@ -68,9 +68,7 @@
 
 **root.chetan:~$ whoami --stats**
 
-![Stats](https://github-readme-stats.vercel.app/api?username=chetanngavali&show_icons=true&theme=tokyonight&hide_border=true&bg_color=16161e)
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=chetanngavali&theme=tokyonight&hide_border=true&background=16161e)
 
 <br/>
 
@@ -91,20 +89,17 @@
 
 </div>
 
----
-
-## 📊 Activity Matrix
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=chetanngavali&theme=tokyo-night&hide_border=true&area=true&bg_color=0d1117" width="900" />
-</div>
 
 ---
 
 ## 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/chetanngavali/chetanngavali/main/github-contribution-grid-snake.svg" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/chetanngavali/chetanngavali/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/chetanngavali/chetanngavali/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/chetanngavali/chetanngavali/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
 
 ---
