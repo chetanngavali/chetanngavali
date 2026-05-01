@@ -28,7 +28,7 @@ I'm a **Cybersecurity & Full-Stack Developer** from Nashik, India, specializing 
 - 🌐 Full-stack experience with **React, Next.js, Node.js, and PostgreSQL**
 - 📡 IoT security research using **ESP8266 / ESP32** for real-world wireless attack simulations
 - 🏆 Hackathon finalist and award winner with multiple shipped projects
-- 📬 Reach me: **chetangavali@protonmail.com**
+- 📬 Reach me: **chetanngavali@gmail.com**
 
 ---
 
