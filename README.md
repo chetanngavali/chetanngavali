@@ -1,16 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Chetan%20Gavali&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20IoT%20Security%20Researcher&descAlignY=55&descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Chetan%20Gavali&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20IoT%20Security%20Researcher&descAlignY=55&descSize=18" alt="Chetan Gavali Banner" />
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2000&pause=500&color=00d9ff&center=true&vCenter=true&width=700&lines=Ethical+Hacker+%26+Penetration+Tester;IoT+Security+%7C+ESP8266+%2F+ESP32;Full-Stack+Web+%26+Mobile+Developer;ISO+27001+Certified+%7C+Open+to+Opportunities" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2000&pause=500&color=00d9ff&center=true&vCenter=true&width=700&lines=Ethical+Hacker+%26+Penetration+Tester;IoT+Security+%7C+ESP8266+%2F+ESP32;Full-Stack+Web+%26+Mobile+Developer;ISO+27001+Certified+%7C+Open+to+Opportunities" alt="Typing SVG Animation" />
 </div>
 
 <br/>
 
-<img src="https://img.shields.io/badge/📍_Nashik,_Maharashtra-India-00d9ff?style=for-the-badge" />
-<img src="https://img.shields.io/badge/STATUS-OPEN_TO_WORK-73daca?style=for-the-badge&logo=shield&logoColor=white" />
-<img src="https://img.shields.io/badge/ROLE-Security_Engineer_/_SDE-bb9af7?style=for-the-badge" />
+<img src="https://img.shields.io/badge/📍_Nashik,_Maharashtra-India-00d9ff?style=for-the-badge" alt="Location" />
+<img src="https://img.shields.io/badge/STATUS-OPEN_TO_WORK-73daca?style=for-the-badge&logo=shield&logoColor=white" alt="Status" />
+<img src="https://img.shields.io/badge/ROLE-Security_Engineer_/_SDE-bb9af7?style=for-the-badge" alt="Role" />
 
 </div>
 
@@ -22,12 +22,12 @@
 root.chetan:~$ cat whoami.txt
 ```
 
-I'm a **Cybersecurity & Full-Stack Developer** from Nashik, India, specializing in **offensive security**, **IoT protocol research**, and building **secure, production-grade web applications**. I bridge the gap between security and development — writing code that is both functional and resilient.
+I'm a **Cybersecurity Engineer & Full-Stack Developer** from Nashik, India, specializing in **offensive security**, **IoT protocol research**, and building **secure, production-grade web applications**. I bridge the gap between security and development — writing code that is both functional and resilient.
 
 - 🔐 Skilled in **penetration testing**, **web vulnerability scanning**, and **MITM attack research**
-- 🌐 Full-stack experience with **React, Next.js, Node.js, and PostgreSQL**
+- 🌐 Full-stack experience with **React 19, Next.js, Node.js, and PostgreSQL / Supabase**
 - 📡 IoT security research using **ESP8266 / ESP32** for real-world wireless attack simulations
-- 🏆 Hackathon finalist and award winner with multiple shipped projects
+- 🏆 Hackathon finalist and award winner with multiple shipped production projects
 - 📬 Reach me: **chetanngavali@gmail.com**
 
 ---
@@ -40,33 +40,39 @@ root.chetan:~$ ls /bin/capabilities/
 
 ### Languages
 <div>
-  <img src="https://skillicons.dev/icons?i=ts,js,py,java,cpp,c" />
+  <img src="https://skillicons.dev/icons?i=ts,js,py,java,cpp,c" alt="Languages" />
 </div>
+
+<br/>
 
 ### Frontend & Backend
 <div>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,express" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,express" alt="Frontend & Backend" />
 </div>
+
+<br/>
 
 ### Databases & Cloud
 <div>
-  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,supabase,firebase" />
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,supabase,firebase" alt="Databases & Cloud" />
 </div>
+
+<br/>
 
 ### Security & DevTools
 <div>
-  <img src="https://skillicons.dev/icons?i=linux,git,vscode,arduino,tensorflow,opencv" />
+  <img src="https://skillicons.dev/icons?i=linux,git,vscode,arduino,tensorflow,opencv" alt="Security & DevTools" />
 </div>
 
 <br/>
 
 | Domain | Tools & Technologies |
-|--------|---------------------|
+| :--- | :--- |
 | **Offensive Security** | Kali Linux, Burp Suite, Metasploit, Nmap, OWASP ZAP |
-| **Network Security** | Wireshark, ESP8266 Evil Twin, Packet Analysis |
-| **Web Security** | SQL Injection, XSS, CSRF, IDOR, Auth Bypass |
-| **Standards** | ISO/IEC 27001:2022, OWASP Top 10 |
-| **Dev Tools** | Git, Docker, Netlify, Hostinger, ngrok |
+| **Network Security** | Wireshark, ESP8266 Evil Twin, Packet Analysis, Wi-Fi Injection |
+| **Web Security** | SQL Injection, XSS, CSRF, IDOR, Auth Bypass, 2FA MFA Engine |
+| **Security Standards** | ISO/IEC 27001:2022, OWASP Top 10 |
+| **DevOps & Infrastructure** | Git, Cloudflare Pages, Docker, Hostinger, ngrok |
 
 ---
 
@@ -100,11 +106,11 @@ A tool for hiding AES-GCM (AEAD) encrypted messages inside images, combining ste
 root.chetan:~$ tail -n 5 /var/log/awards.log
 ```
 
-| Year | Achievement |
-|------|------------|
-| 🥇 2024 | **MindSpark Winner** — KBTCOE Technical Fest |
-| 🏅 2026 | **Hack4Innovation Finalist** |
-| 🏅 2026 | **PCU Ideathon 3.0 Finalist** |
+| Year | Achievement | Organization / Event |
+| :---: | :--- | :--- |
+| 🥇 2024 | **MindSpark Winner (1st Rank)** | KBTCOE Technical Fest |
+| 🏅 2026 | **Hack4Innovation Finalist** | National Hackathon |
+| 🏅 2026 | **PCU Ideathon 3.0 Finalist** | Innovation Challenge |
 
 ---
 
@@ -159,4 +165,4 @@ root.chetan:~$ cat contact.txt
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" alt="Footer Banner" />
