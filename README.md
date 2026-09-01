@@ -14,6 +14,8 @@
 
 </div>
 
+<img src="https://komarev.com/ghpvc/?username=chetanngavali&label=Profile%20Views&color=00d9ff&style=for-the-badge" alt="Profile Views" />
+
 ---
 
 ## 👨‍💻 About Me
